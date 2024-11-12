@@ -49,4 +49,4 @@ Run the `run-nondex-multiple-projects.sh` script to analyze the repositories lis
 
 ### Sample Data
 
-The `result` folder in this repository contains data from a sample run of the above steps.
+The `result` folder in this repository contains data from a sample run of the above steps. We also rerun each reported flaky test under the same set of NonDex seeds 5 times, and then manually look into the logs to determine if it is implementation-dependent (ID). We store a list of verified ID tests in `verified_ID_tests.csv`. Notice that we skip all other flaky tests in the same project whenever identifying one ID test.
