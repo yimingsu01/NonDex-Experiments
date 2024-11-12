@@ -1,0 +1,26 @@
+Project URL,SHA Detected,Subproject Name,Fully-Qualified Test Name (packageName.ClassName.methodName)
+https://github.com/apple/servicetalk,00e740cc1de2eefdd9569563d8f0cb6e5aff7b39,servicetalk-loadbalancer,io.servicetalk.loadbalancer.EagerNewRoundRobinLoadBalancerTest.resubscribeToEventsWhenAllHostsAreUnhealthy(boolean)[2]
+https://github.com/micronaut-projects/micronaut-core,6a1c54d74a741ffe873df5a21cb8f8b535ab8583,jackson-databind,io.micronaut.jackson.modules.BeanIntrospectionModuleSpec.test that introspected serialization works
+https://github.com/spinnaker/clouddriver,3a1e81bb72224c09df611c8d68a1e7065ce70fd1,clouddriver-azure,com.netflix.spinnaker.clouddriver.azure.common.AzureUtilitiesSpec.verify parameters JSON
+https://github.com/aadnk/ProtocolLib,e77ed96957f0479f68f93a6ac685bdc2e54d279d,.,com.comphenix.protocol.events.PacketContainerTest.testSerialization
+https://github.com/spring-projects/spring-authorization-server,6ec92a073c057c691d5d83333fb6728cd4701d48,spring-security-oauth2-authorization-server,org.springframework.security.oauth2.server.authorization.config.annotation.web.configurers.OAuth2AuthorizationCodeGrantTests.requestWhenCustomConsentPageConfiguredThenRedirect
+https://github.com/Consensys/teku,da3e51bc874b065925915739e82faaad1ca829b3,teku,tech.pegasys.teku.cli.options.MetricsOptionsTest.metricsCategories_shouldAcceptMultipleValues
+https://github.com/Netflix/Hystrix,7c03bafe32b518182e09e92fa57358a01043a504,hystrix-core,com.netflix.hystrix.HystrixCollapserTest.testRequestsOverTime
+https://github.com/conductor-oss/conductor,2e309b2a0b3780937f9c56a02f81d0153504eb7d,conductor-common,com.netflix.conductor.common.utils.SummaryUtilTest.testSerializeInputOutput_defaultToString
+https://github.com/synthetichealth/synthea,16ee9bcb6d983c35fc4c9399fd5c464a2760029a,.,org.mitre.synthea.export.flexporter.CustomFHIRPathResourceGeneratorR4Test.testArray1
+https://github.com/spring-projects/spring-restdocs,5cd47c6758a2919509a2772bad6337417c209353,spring-restdocs-core,org.springframework.restdocs.payload.JsonFieldProcessorTests.extractUsingLeafWildcardMatchingMultipleItems
+https://github.com/ContextMapper/context-mapper-dsl,9129c0f77f159f8dc0ba24c627efb4f151a334ad,context-mapper-dsl-tests,org.contextmapper.dsl.generators.mdsl.MDSLAPIDescriptionCreatorTest.canCreateCommentInCaseThereIsNoOperationInAnAPI
+https://github.com/LuckPerms/LuckPerms,e6599a26620f02d07667f0d2609aca83fbd18564,standalone,me.lucko.luckperms.standalone.CommandsIntegrationTest.testGroupCommands
+https://github.com/mc1arke/sonarqube-community-branch-plugin,5e5ca504c435f5844f86feee02880469344c7de7,.,com.github.mc1arke.sonarqube.plugin.almclient.bitbucket.BitbucketServerClientUnitTest.testUploadAnnotations
+https://github.com/JakeWharton/mosaic,f192af3b262d79b753832a7c44f632d890dd7321,mosaic-gradle-plugin,com.jakewharton.mosaic.gradle.FixtureTest.customCompilerVersion
+https://github.com/bitwig/dawproject,5818a716fc5b131f62ed427cac0c665f0d0627e0,.,com.bitwig.dawproject.DawProjectTest.validateDawProject
+https://github.com/spring-projects/spring-kafka,769da20a980e5daf1adaad5b325db66abecdd3a6,spring-kafka,org.springframework.kafka.listener.KafkaMessageListenerContainerTests.testPauseResumeAndConsumerSeekAware
+https://github.com/gazbert/bxbot,cd1f0afce3727741c57ce73644fe27b0203a6d59,bxbot-exchanges,com.gazbert.bxbot.exchanges.TestCoinbaseProExchangeAdapter.testSendingAuthenticatedRequestToExchangeSuccessfully
+https://github.com/qiniu/java-sdk,944085706746b6eec2dc6342cdf3d693d403dc5e,.,test.com.qiniu.util.AuthTest.testUploadToken
+https://github.com/igvteam/igv,66f76eafc7da73308a57de454ab23fb1b519bbf6,.,org.broad.igv.feature.genome.GenomeTest.testAlias_01
+https://github.com/deepjavalibrary/djl,c69aeb6cff248e1a6efc485e38db624e4ee800e5,api,ai.djl.ndarray.NDListTest.testSafetensors
+https://github.com/webauthn4j/webauthn4j,fb723ba15d15ec66abb771c7e2ac4446ea505a95,webauthn4j-core,com.webauthn4j.data.extension.client.AuthenticationExtensionsClientInputsTest.serialize_registration_test
+https://github.com/stripe/stripe-java,6c3dc053cb7945c8a8fa20ffb828b0a4cd7225fa,.,com.stripe.net.ApiRequestParamsConverterTest.testIllegalConflictingExtraParams
+https://github.com/jvm-bloggers/jvm-bloggers,c7cbf81afd7b9fb95c840b9d96c59b29fd740980,.,com.jvm_bloggers.core.data_fetching.blog_posts.BlogPostServiceSpec.Should persist new blog posts
+https://github.com/jenkinsci/JenkinsPipelineUnit,6bbc2c394cf8c0557ee7f6529f42db7acbe7891d,.,com.lesfurets.jenkins.unit.declarative.TestDockerAgentInStep.test_docker_agent_callstack_does_not_contain_binding
+https://github.com/antlr/intellij-plugin-v4,cf76d88e89a2035dd19e4ec93ba28a3d00a8e332,.,org.antlr.intellij.plugin.editor.Issue540Test.test_shouldOnlyCreateTokensWhenModified

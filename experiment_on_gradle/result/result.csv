@@ -1,0 +1,2097 @@
+project name,compile,gradle version,flaky tests,total tests,successful tests,failed tests,skipped tests,time (minutes)
+ReactiveX/RxJava,T,7.6.2,5,13149,12389,14,746,148
+apache/kafka:clients,T,8.5,error,,,,,84
+apache/kafka:connect,T,8.5,error,,,,,84
+apache/kafka:core,T,8.5,error,,,,,85
+apache/kafka:examples,T,8.5,error,,,,,85
+apache/kafka:generator,T,8.5,error,,,,,85
+apache/kafka:group-coordinator,T,8.5,error,,,,,85
+apache/kafka:jmh-benchmarks,T,8.5,error,,,,,85
+apache/kafka:log4j-appender,T,8.5,error,,,,,85
+apache/kafka:metadata,T,8.5,error,,,,,86
+apache/kafka:raft,T,8.5,error,,,,,86
+apache/kafka:server,T,8.5,error,,,,,86
+apache/kafka:server-common,T,8.5,error,,,,,86
+apache/kafka:shell,T,8.5,error,,,,,86
+apache/kafka:storage,T,8.5,error,,,,,86
+apache/kafka:streams,T,8.5,error,,,,,86
+apache/kafka:tools,T,8.5,error,,,,,87
+apache/kafka:trogdor,T,8.5,error,,,,,87
+Netflix/Hystrix:hystrix-clj,T,8.1.1,no test,,,,,4
+Netflix/Hystrix:hystrix-codahale-metrics-publisher,T,8.1.1,0,2,1,1,0,4
+Netflix/Hystrix:hystrix-core,T,8.1.1,11,654,653,0,1,41
+Netflix/Hystrix:hystrix-examples,T,8.1.1,no test,,,,,41
+Netflix/Hystrix:hystrix-examples-webapp,T,8.1.1,no test,,,,,41
+Netflix/Hystrix:hystrix-javanica,T,8.1.1,error,,,,,41
+Netflix/Hystrix:hystrix-junit,T,8.1.1,0,2,2,0,0,42
+Netflix/Hystrix:hystrix-metrics-event-stream,T,8.1.1,0,8,1,7,0,42
+Netflix/Hystrix:hystrix-metrics-event-stream-jaxrs,T,8.1.1,0,10,10,0,0,45
+Netflix/Hystrix:hystrix-network-auditor-agent,T,8.1.1,no test,,,,,45
+Netflix/Hystrix:hystrix-request-servlet,T,8.1.1,no test,,,,,45
+Netflix/Hystrix:hystrix-rx-netty-metrics-stream,T,8.1.1,0,1,0,1,0,45
+Netflix/Hystrix:hystrix-serialization,T,8.1.1,0,22,22,0,0,46
+Netflix/Hystrix:hystrix-servo-metrics-publisher,T,8.1.1,0,3,3,0,0,47
+Netflix/Hystrix:hystrix-yammer-metrics-publisher,T,8.1.1,no test,,,,,47
+williamfiset/Algorithms,F,7.4.2,N/A,,,,,2
+Grasscutters/Grasscutter,T,7.4.2,error,0,0,0,0,26
+elastic/logstash:benchmark-cli,T,8.5,0,2,2,0,0,16
+elastic/logstash:dependencies-report,T,8.5,0,7,7,0,0,18
+elastic/logstash:ingest-converter,T,8.5,0,56,56,0,0,19
+elastic/logstash:jvm-options-parser,T,8.5,0,9,9,0,0,20
+elastic/logstash:logstash-core,T,8.5,no test,,,,,28
+elastic/logstash:logstash-core-benchmarks,T,8.5,no test,,,,,29
+elastic/logstash:logstash-integration-tests,T,8.5,no test,,,,,30
+elastic/logstash:logstash-xpack,T,8.5,no test,,,,,34
+java-decompiler/jd-gui,F,5.2.1,N/A,,,,,0
+pxb1988/dex2jar:d2j-base-cmd,T,6.9.1,error,,,,,3
+pxb1988/dex2jar:d2j-jasmin,T,6.9.1,error,,,,,3
+pxb1988/dex2jar:d2j-smali,T,6.9.1,error,,,,,3
+pxb1988/dex2jar:dex-ir,T,6.9.1,error,,,,,3
+pxb1988/dex2jar:dex-reader,T,6.9.1,error,,,,,4
+pxb1988/dex2jar:dex-reader-api,T,6.9.1,error,,,,,4
+pxb1988/dex2jar:dex-tools,T,6.9.1,error,,,,,4
+pxb1988/dex2jar:dex-translator,T,6.9.1,error,,,,,4
+pxb1988/dex2jar:dex-writer,T,6.9.1,error,,,,,4
+mission-peace/interview,F,2.11,N/A,,,,,0
+SonarSource/sonarqube:plugins,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:server,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-application,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-core,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-duplications,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-markdown,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-plugin-api-impl,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-scanner-engine,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-scanner-engine-shaded,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-scanner-protocol,T,7.5.1,error,,,,,36
+SonarSource/sonarqube:sonar-shutdowner,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:sonar-testing-harness,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:sonar-testing-ldap,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:sonar-ws,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:sonar-ws-generator,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:test-monitoring,T,7.5.1,error,,,,,37
+SonarSource/sonarqube:ut-monitoring,T,7.5.1,error,,,,,37
+spring-projects/spring-security:spring-security-acl,T,8.5,0,157,157,0,0,31
+spring-projects/spring-security:spring-security-aspects,T,8.5,0,30,30,0,0,32
+spring-projects/spring-security:spring-security-bom,T,8.5,no test,,,,,32
+spring-projects/spring-security:spring-security-cas,T,8.5,0,67,67,0,0,33
+spring-projects/spring-security:spring-security-config,T,8.5,0,2603,2601,0,2,52
+spring-projects/spring-security:spring-security-core,T,8.5,0,1162,1141,0,21,55
+spring-projects/spring-security:spring-security-crypto,T,8.5,0,264,264,0,0,57
+spring-projects/spring-security:spring-security-data,T,8.5,0,13,13,0,0,57
+spring-projects/spring-security:spring-security-dependencies,T,8.5,no test,,,,,57
+spring-projects/spring-security:spring-security-docs,T,8.5,no test,,,,,57
+spring-projects/spring-security:spring-security-itest-context,T,8.5,no test,,,,,58
+spring-projects/spring-security:spring-security-itest-ldap-embedded-apacheds-default,T,8.5,no test,,,,,58
+spring-projects/spring-security:spring-security-itest-ldap-embedded-mode-apacheds,T,8.5,no test,,,,,58
+spring-projects/spring-security:spring-security-itest-ldap-embedded-mode-unboundid,T,8.5,no test,,,,,58
+spring-projects/spring-security:spring-security-itest-ldap-embedded-none,T,8.5,no test,,,,,58
+spring-projects/spring-security:spring-security-itest-ldap-embedded-unboundid-default,T,8.5,no test,,,,,59
+spring-projects/spring-security:spring-security-itest-web,T,8.5,no test,,,,,59
+spring-projects/spring-security:spring-security-ldap,T,8.5,0,93,93,0,0,60
+spring-projects/spring-security:spring-security-messaging,T,8.5,0,182,182,0,0,61
+spring-projects/spring-security:spring-security-oauth2-client,T,8.5,0,1186,1185,0,1,62
+spring-projects/spring-security:spring-security-oauth2-core,T,8.5,0,253,253,0,0,63
+spring-projects/spring-security:spring-security-oauth2-jose,T,8.5,0,244,244,0,0,64
+spring-projects/spring-security:spring-security-oauth2-resource-server,T,8.5,0,325,325,0,0,65
+spring-projects/spring-security:spring-security-rsocket,T,8.5,0,57,57,0,0,66
+spring-projects/spring-security:spring-security-saml2-service-provider,T,8.5,0,325,325,0,0,67
+spring-projects/spring-security:spring-security-taglibs,T,8.5,0,38,38,0,0,67
+spring-projects/spring-security:spring-security-test,T,8.5,0,260,259,0,1,69
+spring-projects/spring-security:spring-security-web,T,8.5,0,2256,2254,0,2,72
+ethereum-lists/chains:httpsloader,T,8.0.2,no test,,,,,2
+ethereum-lists/chains:model,T,8.0.2,no test,,,,,2
+ethereum-lists/chains:processor,T,8.0.2,0,37,37,0,0,3
+spring-projects/spring-petclinic,T,8.4,0,47,47,0,0,9
+h2oai/h2o-3:h2o-admissibleml,error with test,7.2,error,,,,,9
+h2oai/h2o-3:h2o-algos,error with test,7.2,error,,,,,9
+h2oai/h2o-3:h2o-app,error with test,7.2,no test,,,,,9
+h2oai/h2o-3:h2o-assemblies,error with test,7.2,no test,,,,,9
+h2oai/h2o-3:h2o-automl,error with test,7.2,error,,,,,10
+h2oai/h2o-3:h2o-avro-parser,error with test,7.2,error,,,,,10
+h2oai/h2o-3:h2o-bindings,error with test,7.2,error,,,,,10
+h2oai/h2o-3:h2o-clustering,error with test,7.2,0,3,3,0,0,11
+h2oai/h2o-3:h2o-core,error with test,7.2,error,,,,,11
+h2oai/h2o-3:h2o-docs,error with test,7.2,no test,,,,,11
+h2oai/h2o-3:h2o-ext-example,error with test,7.2,error,,,,,11
+h2oai/h2o-3:h2o-ext-jython-cfunc,error with test,7.2,error,,,,,11
+h2oai/h2o-3:h2o-ext-krbstandalone,error with test,7.2,0,3,3,0,0,12
+h2oai/h2o-3:h2o-ext-mojo-pipeline,error with test,7.2,error,,,,,12
+h2oai/h2o-3:h2o-ext-steam,error with test,7.2,error,,,,,12
+h2oai/h2o-3:h2o-ext-target-encoder,error with test,7.2,error,,,,,12
+h2oai/h2o-3:h2o-ext-xgboost,error with test,7.2,error,,,,,12
+h2oai/h2o-3:h2o-genmodel,error with test,7.2,0,134,134,0,0,13
+h2oai/h2o-3:h2o-genmodel-ext-deepwater,error with test,7.2,no test,,,,,13
+h2oai/h2o-3:h2o-genmodel-ext-jgrapht,error with test,7.2,no test,,,,,13
+h2oai/h2o-3:h2o-genmodel-ext-mojo-pipeline,error with test,7.2,no test,,,,,13
+h2oai/h2o-3:h2o-genmodel-ext-xgboost,error with test,7.2,0,4,4,0,0,14
+h2oai/h2o-3:h2o-hadoop-common,error with test,7.2,no test,,,,,14
+h2oai/h2o-3:h2o-hive,error with test,7.2,0,9,6,3,0,14
+h2oai/h2o-3:h2o-jaas-pam,error with test,7.2,no test,,,,,15
+h2oai/h2o-3:h2o-jetty-8,error with test,7.2,0,6,6,0,0,15
+h2oai/h2o-3:h2o-jetty-9,error with test,7.2,0,3,3,0,0,15
+h2oai/h2o-3:h2o-jetty-9-minimal,error with test,7.2,0,4,4,0,0,16
+h2oai/h2o-3:h2o-k8s,error with test,7.2,0,7,7,0,0,16
+h2oai/h2o-3:h2o-k8s-comp,error with test,7.2,no test,,,,,16
+h2oai/h2o-3:h2o-k8s-int,error with test,7.2,no test,,,,,16
+h2oai/h2o-3:h2o-logger,error with test,7.2,0,1,1,0,0,17
+h2oai/h2o-3:h2o-logging-impl-classic,error with test,7.2,no test,,,,,17
+h2oai/h2o-3:h2o-logging-impl-log4j2,error with test,7.2,no test,,,,,17
+h2oai/h2o-3:h2o-logging-safe4j,error with test,7.2,no test,,,,,17
+apache/openwhisk:common,error with test,6.9.1,no test,,,,,16
+apache/openwhisk:core,error with test,6.9.1,no test,,,,,16
+apache/openwhisk:tests,error with test,6.9.1,error,,,,,29
+apache/openwhisk:tools,error with test,6.9.1,no test,,,,,29
+sshahine/JFoenix,F,4.2.1,N/A,,,,,0
+micronaut-projects/micronaut-core:enabled,,T,8.5,error,,,,,54
+micronaut-projects/micronaut-core:aop,T,8.5,0,0,0,0,0,58
+micronaut-projects/micronaut-core:benchmarks,T,8.5,no test,,,,,59
+micronaut-projects/micronaut-core:buffer-netty,T,8.5,no test,,,,,59
+micronaut-projects/micronaut-core:context,T,8.5,0,24,23,0,1,68
+micronaut-projects/micronaut-core:context-propagation,T,8.5,0,12,11,1,0,85
+micronaut-projects/micronaut-core:core,T,8.5,0,7221,7221,0,0,92
+micronaut-projects/micronaut-core:core-bom,T,8.5,no test,,,,,92
+micronaut-projects/micronaut-core:core-processor,T,8.5,no test,,,,,93
+micronaut-projects/micronaut-core:core-reactive,T,8.5,0,3,3,0,0,94
+micronaut-projects/micronaut-core:discovery-core,T,8.5,no test,,,,,94
+micronaut-projects/micronaut-core:function,T,8.5,0,9,9,0,0,96
+micronaut-projects/micronaut-core:function-client,T,8.5,no test,,,,,97
+micronaut-projects/micronaut-core:function-web,T,8.5,0,18,11,0,7,100
+micronaut-projects/micronaut-core:graal,T,8.5,0,12,12,0,0,102
+micronaut-projects/micronaut-core:http,T,8.5,1,878,878,0,0,119
+micronaut-projects/micronaut-core:http-client,T,8.5,1,549,543,0,6,168
+micronaut-projects/micronaut-core:http-client-core,T,8.5,0,4,4,0,0,172
+micronaut-projects/micronaut-core:http-client-jdk,T,8.5,0,46,42,0,4,186
+micronaut-projects/micronaut-core:http-client-tck,T,8.5,no test,,,,,187
+micronaut-projects/micronaut-core:http-netty,T,8.5,0,74,74,0,0,191
+micronaut-projects/micronaut-core:http-server,T,8.5,0,20,20,0,0,193
+micronaut-projects/micronaut-core:http-server-netty,T,8.5,9,796,787,1,8,336
+micronaut-projects/micronaut-core:http-server-tck,T,8.5,no test,,,,,337
+micronaut-projects/micronaut-core:http-tck,T,8.5,no test,,,,,337
+micronaut-projects/micronaut-core:http-validation,T,8.5,1,39,39,0,0,342
+micronaut-projects/micronaut-core:inject,T,8.5,0,182,182,0,0,346
+micronaut-projects/micronaut-core:inject-groovy,T,8.5,2,1030,1013,0,17,395
+micronaut-projects/micronaut-core:inject-groovy-test,T,8.5,no test,,,,,395
+micronaut-projects/micronaut-core:inject-java,T,8.5,6,1566,1559,0,7,596
+micronaut-projects/micronaut-core:inject-java-helper,T,8.5,no test,,,,,596
+micronaut-projects/micronaut-core:inject-java-test,T,8.5,0,165,163,0,2,606
+micronaut-projects/micronaut-core:inject-kotlin,T,8.5,3,731,719,0,12,836
+micronaut-projects/micronaut-core:inject-kotlin-test,T,8.5,0,5,5,0,0,841
+micronaut-projects/micronaut-core:inject-test-utils,T,8.5,no test,,,,,842
+micronaut-projects/micronaut-core:jackson-core,T,8.5,0,52,52,0,0,843
+micronaut-projects/micronaut-core:jackson-databind,T,8.5,12,106,106,0,0,848
+micronaut-projects/micronaut-core:json-core,T,8.5,0,26,26,0,0,850
+micronaut-projects/micronaut-core:management,T,8.5,0,120,120,0,0,858
+micronaut-projects/micronaut-core:messaging,T,8.5,0,4,4,0,0,860
+micronaut-projects/micronaut-core:retry,T,8.5,0,27,27,0,0,864
+micronaut-projects/micronaut-core:router,T,8.5,0,58,58,0,0,868
+micronaut-projects/micronaut-core:runtime,T,8.5,0,82,79,0,3,875
+micronaut-projects/micronaut-core:runtime-osx,T,8.5,no test,,,,,875
+micronaut-projects/micronaut-core:test-suite,T,8.5,2,388,388,0,0,918
+micronaut-projects/micronaut-core:test-suite-geb,T,8.5,0,1,1,0,0,921
+micronaut-projects/micronaut-core:test-suite-groovy,T,8.5,0,216,215,0,1,948
+micronaut-projects/micronaut-core:test-suite-helper,T,8.5,no test,,,,,949
+micronaut-projects/micronaut-core:test-suite-http-client-jdk-ssl,T,8.5,0,3,3,0,0,951
+micronaut-projects/micronaut-core:test-suite-http-client-tck-jdk,T,8.5,4,79,70,0,9,956
+micronaut-projects/micronaut-core:test-suite-http-client-tck-netty,T,8.5,4,89,80,0,9,961
+micronaut-projects/micronaut-core:test-suite-http-server-tck-jdk,T,8.5,11,165,162,0,3,971
+micronaut-projects/micronaut-core:test-suite-http-server-tck-netty,T,8.5,0,178,175,0,3,973
+micronaut-projects/micronaut-core:test-suite-jakarta-inject-bean-import,T,8.5,0,2,2,0,0,975
+micronaut-projects/micronaut-core:test-suite-javax-inject,T,8.5,0,103,102,0,1,979
+micronaut-projects/micronaut-core:test-suite-kotlin,T,8.5,0,338,338,0,0,1019
+micronaut-projects/micronaut-core:test-suite-kotlin-ksp,T,8.5,0,296,295,0,1,1054
+micronaut-projects/micronaut-core:test-suite-logback,T,8.5,0,4,4,0,0,1056
+micronaut-projects/micronaut-core:test-suite-logback-external-configuration,T,8.5,0,3,3,0,0,1057
+micronaut-projects/micronaut-core:test-suite-logback-graalvm,T,8.5,0,1,1,0,0,1058
+micronaut-projects/micronaut-core:test-suite-netty-ssl-graalvm,T,8.5,0,1,1,0,0,1060
+micronaut-projects/micronaut-core:test-utils,T,8.5,no test,,,,,1060
+micronaut-projects/micronaut-core:websocket,T,8.5,no test,,,,,1061
+huanghongxun/HMCL:HMCL,error with test,8.5,error,,,,,1
+huanghongxun/HMCL:HMCLCore,error with test,8.5,error,,,,,2
+huanghongxun/HMCL:HMCLTransformerDiscoveryService,error with test,8.5,error,,,,,2
+sdkman/sdkman-cli,T,8.0.1,0,175,175,0,0,10
+hibernate/hibernate-orm:documentation,T,8.4,error,,,,,62
+hibernate/hibernate-orm:hibernate-agroal,T,8.4,error,,,,,62
+hibernate/hibernate-orm:hibernate-ant,T,8.4,error,,,,,62
+hibernate/hibernate-orm:hibernate-c3p0,T,8.4,error,,,,,62
+hibernate/hibernate-orm:hibernate-community-dialects,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-core,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-enhance-maven-plugin,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-envers,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-graalvm,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-gradle-plugin,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-hikaricp,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-integrationtest-java-modules,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-jcache,T,8.4,error,,,,,63
+hibernate/hibernate-orm:hibernate-jpamodelgen,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-micrometer,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-platform,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-proxool,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-spatial,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-testing,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-ucp,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-vector,T,8.4,error,,,,,64
+hibernate/hibernate-orm:hibernate-vibur,T,8.4,error,,,,,64
+hibernate/hibernate-orm:release,T,8.4,error,,,,,65
+btraceio/btrace,F,8.5,N/A,,,,,0
+vavr-io/vavr,error with test,8.1,error,,,,,0
+rundeck/rundeck:core,T,7.6.1,error,,,,,13
+rundeck/rundeck:docker,T,7.6.1,no test,,,,,14
+rundeck/rundeck:functional-test,T,7.6.1,0,0,0,0,0,14
+rundeck/rundeck:grails-execution-mode-timer,T,7.6.1,error,,,,,16
+rundeck/rundeck:grails-job-kill-handler,T,7.6.1,error,,,,,17
+rundeck/rundeck:grails-metricsweb,T,7.6.1,error,,,,,18
+rundeck/rundeck:grails-persistlocale,T,7.6.1,no test,,,,,18
+rundeck/rundeck:grails-repository,T,7.6.1,error,,,,,20
+rundeck/rundeck:grails-rundeck-data-shared,T,7.6.1,error,,,,,21
+rundeck/rundeck:grails-securityheaders,T,7.6.1,0,33,33,0,0,22
+rundeck/rundeck:grails-webhooks,T,7.6.1,error,,,,,23
+rundeck/rundeck:plugins,T,7.6.1,no test,,,,,23
+rundeck/rundeck:rundeck-app-util,T,7.6.1,error,,,,,24
+rundeck/rundeck:rundeck-authz,T,7.6.1,no test,,,,,25
+rundeck/rundeck:rundeck-data-model,T,7.6.1,no test,,,,,25
+rundeck/rundeck:rundeck-storage,T,7.6.1,no test,,,,,25
+rundeck/rundeck:rundeckapp,T,7.6.1,error,,,,,27
+apache/iceberg:iceberg-aliyun,T,8.1.1,error,,,,,313
+apache/iceberg:iceberg-api,T,8.1.1,error,,,,,313
+apache/iceberg:iceberg-arrow,T,8.1.1,error,,,,,313
+apache/iceberg:iceberg-aws,T,8.1.1,error,,,,,313
+apache/iceberg:iceberg-aws-bundle,T,8.1.1,error,,,,,313
+apache/iceberg:iceberg-azure,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-azure-bundle,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-bundled-guava,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-common,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-core,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-data,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-dell,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-delta-lake,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-flink,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-gcp,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-gcp-bundle,T,8.1.1,error,,,,,314
+apache/iceberg:iceberg-hive-metastore,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-hive-runtime,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-kafka-connect,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-mr,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-nessie,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-orc,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-parquet,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-pig,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-snowflake,T,8.1.1,error,,,,,315
+apache/iceberg:iceberg-spark,T,8.1.1,error,,,,,315
+apache/groovy:binary-compatibility,T,8.5,error,,,,,174
+apache/groovy:groovy-all,T,8.5,error,,,,,174
+apache/groovy:groovy-ant,T,8.5,error,,,,,174
+apache/groovy:groovy-astbuilder,T,8.5,error,,,,,174
+apache/groovy:groovy-binary,T,8.5,error,,,,,174
+apache/groovy:groovy-bom,T,8.5,error,,,,,174
+apache/groovy:groovy-cli-commons,T,8.5,error,,,,,174
+apache/groovy:groovy-cli-picocli,T,8.5,error,,,,,174
+apache/groovy:groovy-console,T,8.5,error,,,,,175
+apache/groovy:groovy-contracts,T,8.5,error,,,,,175
+apache/groovy:groovy-datetime,T,8.5,error,,,,,175
+apache/groovy:groovy-dateutil,T,8.5,error,,,,,175
+apache/groovy:groovy-docgenerator,T,8.5,error,,,,,175
+apache/groovy:groovy-ginq,T,8.5,error,,,,,175
+apache/groovy:groovy-groovydoc,T,8.5,error,,,,,175
+apache/groovy:groovy-groovysh,T,8.5,error,,,,,175
+apache/groovy:groovy-jmx,T,8.5,error,,,,,175
+apache/groovy:groovy-json,T,8.5,error,,,,,176
+apache/groovy:groovy-jsr223,T,8.5,error,,,,,176
+apache/groovy:groovy-macro,T,8.5,error,,,,,176
+apache/groovy:groovy-macro-library,T,8.5,error,,,,,176
+apache/groovy:groovy-nio,T,8.5,error,,,,,176
+apache/groovy:groovy-servlet,T,8.5,error,,,,,176
+apache/groovy:groovy-sql,T,8.5,error,,,,,176
+apache/groovy:groovy-swing,T,8.5,error,,,,,176
+apache/groovy:groovy-templates,T,8.5,error,,,,,177
+apache/groovy:groovy-test,T,8.5,error,,,,,177
+apache/groovy:groovy-test-junit5,T,8.5,error,,,,,177
+apache/groovy:groovy-testng,T,8.5,error,,,,,177
+apache/groovy:groovy-toml,T,8.5,error,,,,,177
+apache/groovy:groovy-typecheckers,T,8.5,error,,,,,177
+apache/groovy:groovy-xml,T,8.5,error,,,,,177
+apache/groovy:groovy-yaml,T,8.5,error,,,,,177
+apache/groovy:performance,T,8.5,error,,,,,177
+apache/groovy:stress,T,8.5,error,,,,,178
+apache/groovy:tests-preview,T,8.5,error,,,,,178
+web3j/web3j:abi,T,7.6,error,,,,,8
+web3j/web3j:besu,T,7.6,error,,,,,8
+web3j/web3j:codegen,T,7.6,error,,,,,8
+web3j/web3j:contracts,T,7.6,error,,,,,8
+web3j/web3j:core,T,7.6,error,,,,,8
+web3j/web3j:crypto,T,7.6,error,,,,,8
+web3j/web3j:eea,T,7.6,error,,,,,8
+web3j/web3j:geth,T,7.6,error,,,,,9
+web3j/web3j:hosted-providers,T,7.6,error,,,,,9
+web3j/web3j:integration-tests,T,7.6,error,,,,,9
+web3j/web3j:parity,T,7.6,error,,,,,9
+web3j/web3j:rlp,T,7.6,error,,,,,9
+web3j/web3j:tuples,T,7.6,error,,,,,9
+web3j/web3j:utils,T,7.6,error,,,,,9
+didi/booster,F,7.5,N/A,,,,,0
+spring-projects/spring-authorization-server:samples-default-authorizationserver,T,7.4.2,0,6,6,0,0,9
+spring-projects/spring-authorization-server:samples-demo-authorizationserver,T,7.4.2,0,6,6,0,0,10
+spring-projects/spring-authorization-server:samples-demo-client,T,7.4.2,no test,,,,,10
+spring-projects/spring-authorization-server:samples-messages-resource,T,7.4.2,no test,,,,,10
+spring-projects/spring-authorization-server:spring-authorization-server-dependencies,T,7.4.2,no test,,,,,10
+spring-projects/spring-authorization-server:spring-authorization-server-docs,T,7.4.2,0,9,9,0,0,12
+spring-projects/spring-authorization-server:spring-security-oauth2-authorization-server,T,7.4.2,27,1026,1026,0,0,24
+puniverse/quasar,F,4.10.2,N/A,,,,,0
+stleary/JSON-java,T,6.3,0,709,707,0,2,1
+azkaban/azkaban,F,5.0,N/A,,,,,0
+CalebFenton/simplify,F,6.1.1,N/A,,,,,0
+dreamhead/moco:moco-core,T,8.5,0,489,489,0,0,8
+dreamhead/moco:moco-junit,T,8.5,0,16,16,0,0,9
+dreamhead/moco:moco-junit5,T,8.5,0,8,8,0,0,10
+dreamhead/moco:moco-runner,T,8.5,0,211,211,0,0,16
+TheoKanning/openai-java:api,T,8.0.2,0,21,21,0,0,2
+TheoKanning/openai-java:client,T,8.0.2,no test,,,,,2
+TheoKanning/openai-java:example,T,8.0.2,no test,,,,,2
+TheoKanning/openai-java:service,T,8.0.2,0,56,9,47,0,3
+diffplug/spotless:lib,T,8.5,error,55,55,0,0,75
+diffplug/spotless:lib-extra,T,8.5,error,36,36,0,0,79
+diffplug/spotless:plugin-gradle,T,8.5,error,169,164,2,3,100
+diffplug/spotless:plugin-maven,T,8.5,error,199,198,0,1,121
+diffplug/spotless:testlib,T,8.5,error,245,241,0,4,128
+mozilla/rhino,T,7.2,error,,,,,66
+ben-manes/gradle-versions-plugin:gradle-versions-plugin,T,8.0.2,error,,,,,41
+angryip/ipscan,T,7.6,error,,,,,2
+deepjavalibrary/djl:api,T,8.3,2,128,128,0,0,27
+deepjavalibrary/djl:basicdataset,T,8.3,0,51,51,0,0,32
+deepjavalibrary/djl:djl-zero,T,8.3,0,1,0,0,1,33
+deepjavalibrary/djl:engines,T,8.3,no test,,,,,34
+deepjavalibrary/djl:examples,T,8.3,0,42,19,0,23,64
+deepjavalibrary/djl:extensions,T,8.3,no test,,,,,64
+deepjavalibrary/djl:integration,T,8.3,error,2,1,0,1,76
+deepjavalibrary/djl:jacoco,T,8.3,no test,,,,,76
+deepjavalibrary/djl:model-zoo,T,8.3,no test,,,,,77
+deepjavalibrary/djl:testing,T,8.3,no test,,,,,77
+VaughnVernon/IDDD_Samples,F,2.3,N/A,,,,,0
+tronprotocol/java-tron,F,5.6.4,N/A,,,,,1
+spockframework/spock,F,8.5,N/A,,,,,1
+spotbugs/spotbugs:eclipsePlugin,T,8.5,no test,,,,,24
+spotbugs/spotbugs:eclipsePlugin-junit,T,8.5,0,0,0,0,0,24
+spotbugs/spotbugs:eclipsePlugin-test,T,8.5,no test,,,,,24
+spotbugs/spotbugs:spotbugs,T,8.5,no test,,,,,25
+spotbugs/spotbugs:spotbugs-annotations,T,8.5,no test,,,,,25
+spotbugs/spotbugs:spotbugs-ant,T,8.5,0,0,0,0,0,25
+spotbugs/spotbugs:spotbugs-tests,T,8.5,error,,,,,25
+spotbugs/spotbugs:spotbugsTestCases,T,8.5,no test,,,,,26
+spotbugs/spotbugs:test-harness,T,8.5,no test,,,,,26
+spotbugs/spotbugs:test-harness-core,T,8.5,no test,,,,,26
+spotbugs/spotbugs:test-harness-jupiter,T,8.5,0,1,1,0,0,29
+JabRef/jabref,error with test,8.5,error,,,,,4
+microservices-patterns/ftgo-application,F,6.9.1,N/A,,,,,0
+mockito/mockito-kotlin:mockito-kotlin,T,8.1,error,,,,,3
+real-logic/simple-binary-encoding,F,8.1.1,N/A,,,,,1
+BruceEckel/OnJava8-Examples,F,6.8.1,N/A,,,,,0
+google/binnavi,F,2.6,N/A,,,,,0
+airbnb/airpal,F,2.2.1,N/A,,,,,0
+grails/grails-core:grails-bom,T,7.6.3,no test,,,,,10
+grails/grails-core:grails-bootstrap,T,7.6.3,0,84,74,9,1,13
+grails/grails-core:grails-codecs,T,7.6.3,error,18,18,0,0,13
+grails/grails-core:grails-console,T,7.6.3,no test,,,,,15
+grails/grails-core:grails-core,T,7.6.3,0,240,198,39,3,23
+grails/grails-core:grails-databinding,T,7.6.3,error,72,71,0,1,24
+grails/grails-core:grails-dependencies,T,7.6.3,no test,,,,,25
+grails/grails-core:grails-docs,T,7.6.3,error,21,21,0,0,27
+grails/grails-core:grails-encoder,T,7.6.3,error,74,74,0,0,28
+grails/grails-core:grails-gradle-model,T,7.6.3,no test,,,,,28
+grails/grails-core:grails-logging,T,7.6.3,error,5,5,0,0,29
+grails/grails-core:grails-plugin-codecs,T,7.6.3,error,7,7,0,0,32
+grails/grails-core:grails-plugin-controllers,T,7.6.3,error,22,21,0,1,34
+grails/grails-core:grails-plugin-databinding,T,7.6.3,error,25,25,0,0,38
+grails/grails-core:grails-plugin-datasource,T,7.6.3,error,1,1,0,0,38
+grails/grails-core:grails-plugin-domain-class,T,7.6.3,error,2,2,0,0,39
+grails/grails-core:grails-plugin-i18n,T,7.6.3,no test,,,,,40
+grails/grails-core:grails-plugin-interceptors,T,7.6.3,error,41,41,0,0,41
+grails/grails-core:grails-plugin-mimetypes,T,7.6.3,error,34,34,0,0,42
+grails/grails-core:grails-plugin-rest,T,7.6.3,error,39,38,0,1,46
+grails/grails-core:grails-plugin-services,T,7.6.3,no test,,,,,46
+grails/grails-core:grails-plugin-url-mappings,T,7.6.3,no test,,,,,46
+grails/grails-core:grails-plugin-validation,T,7.6.3,0,93,90,3,0,49
+grails/grails-core:grails-shell,T,7.6.3,error,18,16,0,2,51
+grails/grails-core:grails-spring,T,7.6.3,no test,,,,,51
+grails/grails-core:grails-test,T,7.6.3,no test,,,,,51
+grails/grails-core:grails-test-suite-base,T,7.6.3,no test,,,,,51
+grails/grails-core:grails-test-suite-persistence,T,7.6.3,0,82,75,3,4,63
+grails/grails-core:grails-test-suite-uber,T,7.6.3,0,562,544,9,9,131
+grails/grails-core:grails-test-suite-web,T,7.6.3,error,267,267,0,0,167
+grails/grails-core:grails-web,T,7.6.3,error,3,3,0,0,168
+grails/grails-core:grails-web-boot,T,7.6.3,error,3,3,0,0,172
+grails/grails-core:grails-web-common,T,7.6.3,error,33,33,0,0,174
+grails/grails-core:grails-web-databinding,T,7.6.3,error,28,28,0,0,175
+grails/grails-core:grails-web-fileupload,T,7.6.3,no test,,,,,176
+grails/grails-core:grails-web-mvc,T,7.6.3,error,1,1,0,0,176
+grails/grails-core:grails-web-url-mappings,T,7.6.3,error,131,130,0,1,180
+spring-projects/spring-loaded,F,6.8,N/A,,,,,0
+real-logic/agrona,F,8.1.1,N/A,,,,,1
+voldemort/voldemort,F,2.9,N/A,,,,,0
+Kotlin/kotlin-koans,F,5.2.1,N/A,,,,,0
+mihaip/dex-method-counts,F,3.1,N/A,,,,,0
+mongodb/mongo-java-driver:bson,T,7.3,error,,,,,356
+mongodb/mongo-java-driver:bson-kotlin,T,7.3,error,,,,,357
+mongodb/mongo-java-driver:bson-kotlinx,T,7.3,error,,,,,357
+mongodb/mongo-java-driver:bson-record-codec,T,7.3,error,,,,,357
+mongodb/mongo-java-driver:bson-scala,T,7.3,error,,,,,357
+mongodb/mongo-java-driver:driver-benchmarks,T,7.3,error,,,,,358
+mongodb/mongo-java-driver:driver-core,T,7.3,error,,,,,358
+mongodb/mongo-java-driver:driver-kotlin-coroutine,T,7.3,error,,,,,358
+mongodb/mongo-java-driver:driver-kotlin-sync,T,7.3,error,,,,,358
+mongodb/mongo-java-driver:driver-lambda,T,7.3,error,,,,,358
+mongodb/mongo-java-driver:driver-legacy,T,7.3,error,,,,,359
+mongodb/mongo-java-driver:driver-reactive-streams,T,7.3,error,,,,,359
+mongodb/mongo-java-driver:driver-scala,T,7.3,error,,,,,359
+mongodb/mongo-java-driver:driver-sync,T,7.3,error,,,,,359
+mongodb/mongo-java-driver:driver-workload-executor,T,7.3,error,,,,,359
+mongodb/mongo-java-driver:util,T,7.3,error,,,,,360
+linkedin/cruise-control:cruise-control,T,7.4,error,,,,,34
+linkedin/cruise-control:cruise-control-core,T,7.4,error,,,,,35
+linkedin/cruise-control:cruise-control-metrics-reporter,T,7.4,error,,,,,37
+fossasia/susi_server,F,5.4.1,N/A,,,,,1
+osfans/trime,F,8.5,N/A,,,,,7
+reactor/reactor-netty:reactor-netty,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-core,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-examples,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-graalvm-smoke-tests,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-http,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-http-brave,T,7.6.3,error,,,,,17
+reactor/reactor-netty:reactor-netty-incubator-quic,T,7.6.3,error,,,,,17
+hierynomus/sshj,T,8.2,error,,,,,5
+Guardsquare/proguard:annotations,T,7.5,error,,,,,28
+Guardsquare/proguard:ant,T,7.5,error,,,,,28
+Guardsquare/proguard:base,T,7.5,error,,,,,28
+Guardsquare/proguard:gradle,T,7.5,error,,,,,28
+Guardsquare/proguard:gui,T,7.5,error,,,,,28
+Guardsquare/proguard:proguard-app,T,7.5,error,,,,,28
+Guardsquare/proguard:retrace,T,7.5,error,,,,,28
+rsocket/rsocket-java:benchmarks,T,7.6.1,no test,,,,,7
+rsocket/rsocket-java:rsocket-bom,T,7.6.1,no test,,,,,7
+rsocket/rsocket-java:rsocket-core,T,7.6.1,0,734,715,1,18,34
+rsocket/rsocket-java:rsocket-examples,T,7.6.1,0,24,15,0,9,37
+rsocket/rsocket-java:rsocket-load-balancer,T,7.6.1,0,7,6,0,1,37
+rsocket/rsocket-java:rsocket-micrometer,T,7.6.1,0,21,21,0,0,38
+rsocket/rsocket-java:rsocket-test,T,7.6.1,no test,,,,,38
+rsocket/rsocket-java:rsocket-transport-local,T,7.6.1,0,96,88,0,8,82
+rsocket/rsocket-java:rsocket-transport-netty,T,7.6.1,1,255,233,2,20,344
+connectbot/connectbot,F,8.0,N/A,,,,,2
+apache/gobblin,F,5.6.4,N/A,,,,,0
+apache/lucene:lucene,T,8.4,error,,,,,52
+ethereum/ethereumj,F,5.6.2,N/A,,,,,0
+marytts/marytts,F,6.9.1,N/A,,,,,0
+nelenkov/android-backup-extractor,error with test,8.1,no test,,,,,1
+jobrunr/jobrunr:core,error with test,8.4,error,,,,,7
+jobrunr/jobrunr:framework-support,error with test,8.4,error,,,,,8
+jobrunr/jobrunr:language-support,error with test,8.4,error,,,,,8
+jobrunr/jobrunr:platform,error with test,8.4,error,,,,,8
+jobrunr/jobrunr:tests,error with test,8.4,error,,,,,8
+spring-projects/spring-kafka:spring-kafka,T,8.4,3,765,760,0,5,110
+spring-projects/spring-kafka:spring-kafka-bom,T,8.4,no test,,,,,110
+spring-projects/spring-kafka:spring-kafka-docs,T,8.4,no test,,,,,111
+spring-projects/spring-kafka:spring-kafka-test,T,8.4,0,26,24,0,2,117
+linkedin/kafka-monitor,F,5.2.1,N/A,,,,,0
+unclebob/fitnesse,T,7.6,error,,,,,10
+webbukkit/dynmap:{"fileName""AbstractProjectileDispenseBehavior.java","id""sourceFile"},error with test,7.4.2,error,,,,,266
+webbukkit/dynmap:{"fileName""EntityProjectileOwnerFix.java","id""sourceFile"},error with test,7.4.2,error,,,,,270
+webbukkit/dynmap:{"fileName""AbstractHurtingProjectile.java","id""sourceFile"},error with test,7.4.2,error,,,,,275
+webbukkit/dynmap:{"fileName""Projectile.java","id""sourceFile"},error with test,7.4.2,error,,,,,281
+webbukkit/dynmap:{"fileName""ProjectileUtil.java","id""sourceFile"},error with test,7.4.2,error,,,,,287
+webbukkit/dynmap:{"fileName""ThrowableItemProjectile.java","id""sourceFile"},error with test,7.4.2,error,,,,,293
+webbukkit/dynmap:{"fileName""ThrowableProjectile.java","id""sourceFile"},error with test,7.4.2,error,,,,,299
+webbukkit/dynmap:{"fileName""ProjectileWeaponItem.java","id""sourceFile"},error with test,7.4.2,error,,,,,302
+webbukkit/dynmap:bukkit-helper,error with test,7.4.2,no test,,,,,309
+webbukkit/dynmap:bukkit-helper-113-2,error with test,7.4.2,no test,,,,,314
+webbukkit/dynmap:bukkit-helper-114-1,error with test,7.4.2,no test,,,,,321
+webbukkit/dynmap:bukkit-helper-115,error with test,7.4.2,no test,,,,,328
+webbukkit/dynmap:bukkit-helper-116,error with test,7.4.2,no test,,,,,332
+webbukkit/dynmap:bukkit-helper-116-2,error with test,7.4.2,no test,,,,,336
+webbukkit/dynmap:bukkit-helper-116-3,error with test,7.4.2,no test,,,,,342
+webbukkit/dynmap:bukkit-helper-116-4,error with test,7.4.2,no test,,,,,348
+webbukkit/dynmap:bukkit-helper-117,error with test,7.4.2,no test,,,,,353
+webbukkit/dynmap:bukkit-helper-118,error with test,7.4.2,no test,,,,,358
+webbukkit/dynmap:bukkit-helper-118-2,error with test,7.4.2,no test,,,,,365
+webbukkit/dynmap:bukkit-helper-119,error with test,7.4.2,no test,,,,,369
+webbukkit/dynmap:bukkit-helper-119-3,error with test,7.4.2,no test,,,,,374
+webbukkit/dynmap:bukkit-helper-119-4,error with test,7.4.2,no test,,,,,379
+webbukkit/dynmap:bukkit-helper-120,error with test,7.4.2,no test,,,,,385
+webbukkit/dynmap:bukkit-helper-120-2,error with test,7.4.2,no test,,,,,390
+webbukkit/dynmap:bukkit-helper-120-4,error with test,7.4.2,no test,,,,,395
+webbukkit/dynmap:dynmap-api,error with test,7.4.2,no test,,,,,400
+webbukkit/dynmap:DynmapCore,error with test,7.4.2,no test,,,,,406
+webbukkit/dynmap:DynmapCoreAPI,error with test,7.4.2,no test,,,,,409
+webbukkit/dynmap:fabric-1.14.4,error with test,7.4.2,no test,,,,,415
+webbukkit/dynmap:fabric-1.15.2,error with test,7.4.2,no test,,,,,421
+webbukkit/dynmap:fabric-1.16.4,error with test,7.4.2,no test,,,,,425
+webbukkit/dynmap:fabric-1.17.1,error with test,7.4.2,no test,,,,,432
+webbukkit/dynmap:fabric-1.18.2,error with test,7.4.2,no test,,,,,439
+webbukkit/dynmap:fabric-1.19.4,error with test,7.4.2,no test,,,,,446
+webbukkit/dynmap:fabric-1.20,error with test,7.4.2,no test,,,,,451
+webbukkit/dynmap:fabric-1.20.2,error with test,7.4.2,no test,,,,,455
+webbukkit/dynmap:fabric-1.20.4,error with test,7.4.2,no test,,,,,461
+webbukkit/dynmap:forge-1.14.4,error with test,7.4.2,no test,,,,,468
+webbukkit/dynmap:forge-1.15.2,error with test,7.4.2,no test,,,,,472
+webbukkit/dynmap:forge-1.16.5,error with test,7.4.2,no test,,,,,478
+webbukkit/dynmap:forge-1.17.1,error with test,7.4.2,no test,,,,,485
+webbukkit/dynmap:forge-1.18.2,error with test,7.4.2,no test,,,,,492
+webbukkit/dynmap:forge-1.19.3,error with test,7.4.2,no test,,,,,497
+webbukkit/dynmap:forge-1.20,error with test,7.4.2,no test,,,,,502
+webbukkit/dynmap:forge-1.20.2,error with test,7.4.2,no test,,,,,508
+webbukkit/dynmap:spigot,error with test,7.4.2,no test,,,,,515
+pravega/pravega,F,6.8.3,N/A,,,,,0
+elastic/elasticsearch-hadoop:dist,T,8.5,error,,,,,48
+elastic/elasticsearch-hadoop:elasticsearch-hadoop-hive,T,8.5,0,26,26,0,0,54
+elastic/elasticsearch-hadoop:elasticsearch-hadoop-mr,T,8.5,4,2844,1277,0,1567,58
+elastic/elasticsearch-hadoop:elasticsearch-spark,T,8.5,4,60,60,0,0,66
+elastic/elasticsearch-hadoop:elasticsearch-spark-20,T,8.5,0,44,43,0,1,72
+elastic/elasticsearch-hadoop:elasticsearch-spark-30,T,8.5,0,44,43,0,1,78
+elastic/elasticsearch-hadoop:qa,T,8.5,no test,,,,,81
+elastic/elasticsearch-hadoop:test,T,8.5,no test,,,,,85
+elastic/elasticsearch-hadoop:thirdparty,T,8.5,error,,,,,88
+synthetichealth/synthea,T,8.2.1,9,603,596,0,7,747
+mc1arke/sonarqube-community-branch-plugin,T,8.5,4,342,342,0,0,35
+Luohuayu/CatServer,F,7.3.3,N/A,,,,,0
+LuckPerms/LuckPerms:api,T,8.5,no test,,,,,42
+LuckPerms/LuckPerms:bukkit,T,8.5,no test,,,,,45
+LuckPerms/LuckPerms:bukkit-legacy,T,8.5,no test,,,,,48
+LuckPerms/LuckPerms:bungee,T,8.5,no test,,,,,52
+LuckPerms/LuckPerms:common,T,8.5,0,832,832,0,0,66
+LuckPerms/LuckPerms:fabric,T,8.5,no test,,,,,69
+LuckPerms/LuckPerms:forge,T,8.5,no test,,,,,73
+LuckPerms/LuckPerms:nukkit,T,8.5,no test,,,,,77
+LuckPerms/LuckPerms:sponge,T,8.5,no test,,,,,81
+LuckPerms/LuckPerms:standalone,T,8.5,5,30,30,0,0,94
+LuckPerms/LuckPerms:velocity,T,8.5,no test,,,,,96
+novoda/bintray-release,F,5.4.1,N/A,,,,,0
+JorenSix/TarsosDSP:core,T,7.2,0,20,20,0,0,3
+JorenSix/TarsosDSP:examples,T,7.2,no test,,,,,3
+JorenSix/TarsosDSP:jvm,T,7.2,no test,,,,,4
+i2p/i2p.i2p,F,5.2.1,N/A,,,,,1
+spring-projects/spring-session:spring-session-bom,T,8.2.1,error,,,,,27
+spring-projects/spring-session:spring-session-core,T,8.2.1,error,,,,,27
+spring-projects/spring-session:spring-session-data-mongodb,T,8.2.1,error,,,,,27
+spring-projects/spring-session:spring-session-data-redis,T,8.2.1,error,,,,,28
+spring-projects/spring-session:spring-session-dependencies,T,8.2.1,error,,,,,28
+spring-projects/spring-session:spring-session-docs,T,8.2.1,error,,,,,28
+spring-projects/spring-session:spring-session-hazelcast,T,8.2.1,error,,,,,28
+spring-projects/spring-session:spring-session-jdbc,T,8.2.1,error,,,,,29
+spring-projects/spring-session:spring-session-sample-boot-findbyusername,T,8.2.1,error,,,,,29
+spring-projects/spring-session:spring-session-sample-boot-hazelcast,T,8.2.1,error,,,,,29
+spring-projects/spring-session:spring-session-sample-boot-jdbc,T,8.2.1,error,,,,,29
+spring-projects/spring-session:spring-session-sample-boot-mongodb-reactive,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-mongodb-traditional,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-reactive-redis-indexed,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-redis,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-redis-json,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-webflux,T,8.2.1,error,,,,,30
+spring-projects/spring-session:spring-session-sample-boot-webflux-custom-cookie,T,8.2.1,error,,,,,31
+spring-projects/spring-session:spring-session-sample-boot-websocket,T,8.2.1,error,,,,,31
+spring-projects/spring-session:spring-session-sample-javaconfig-custom-cookie,T,8.2.1,error,,,,,31
+spring-projects/spring-session:spring-session-sample-javaconfig-hazelcast,T,8.2.1,error,,,,,31
+spring-projects/spring-session:spring-session-sample-javaconfig-jdbc,T,8.2.1,error,,,,,31
+spring-projects/spring-session:spring-session-sample-javaconfig-redis,T,8.2.1,error,,,,,32
+spring-projects/spring-session:spring-session-sample-javaconfig-rest,T,8.2.1,error,,,,,32
+spring-projects/spring-session:spring-session-sample-javaconfig-security,T,8.2.1,error,,,,,32
+spring-projects/spring-session:spring-session-sample-misc-hazelcast,T,8.2.1,error,,,,,32
+spring-projects/spring-session:spring-session-sample-xml-jdbc,T,8.2.1,error,,,,,33
+spring-projects/spring-session:spring-session-sample-xml-redis,T,8.2.1,error,,,,,33
+apache/poi:poi,T,8.5,error,,,,,200
+apache/poi:poi-examples,T,8.5,error,,,,,200
+apache/poi:poi-excelant,T,8.5,error,,,,,200
+apache/poi:poi-integration,T,8.5,error,,,,,201
+apache/poi:poi-ooxml,T,8.5,error,,,,,201
+apache/poi:poi-ooxml-full,T,8.5,no test,,,,,202
+apache/poi:poi-ooxml-lite,T,8.5,no test,,,,,202
+apache/poi:poi-ooxml-lite-agent,T,8.5,no test,,,,,202
+apache/poi:poi-scratchpad,T,8.5,error,,,,,203
+EssentialsX/Essentials:EssentialsX,T,8.3,error,,,,,15
+EssentialsX/Essentials:EssentialsXAntiBuild,T,8.3,error,,,,,16
+EssentialsX/Essentials:EssentialsXChat,T,8.3,error,,,,,16
+EssentialsX/Essentials:EssentialsXDiscord,T,8.3,error,,,,,16
+EssentialsX/Essentials:EssentialsXDiscordLink,T,8.3,error,,,,,16
+EssentialsX/Essentials:EssentialsXGeoIP,T,8.3,error,,,,,16
+EssentialsX/Essentials:EssentialsXProtect,T,8.3,error,,,,,17
+EssentialsX/Essentials:EssentialsXSpawn,T,8.3,error,,,,,17
+EssentialsX/Essentials:EssentialsXXMPP,T,8.3,error,,,,,17
+EssentialsX/Essentials:providers,T,8.3,error,,,,,17
+dcevm/dcevm,F,2.4,N/A,,,,,0
+embulk/embulk:embulk-core,T,7.6.1,error,207,194,13,0,9
+embulk/embulk:embulk-deps,T,7.6.1,error,52,52,0,0,9
+embulk/embulk:embulk-junit4,T,7.6.1,no test,,,,,9
+embulk/embulk:embulk-ruby,T,7.6.1,no test,,,,,10
+embulk/embulk:test-helpers,T,7.6.1,no test,,,,,11
+stagemonitor/stagemonitor,F,5.5.1,N/A,,,,,0
+linkedin/ambry,F,5.2.1,N/A,,,,,0
+JakeWharton/mosaic:mosaic-gradle-plugin,T,8.5,4,4,4,0,0,40
+JakeWharton/mosaic:mosaic-runtime,T,8.5,no test,,,,,40
+JakeWharton/mosaic:samples,T,8.5,no test,,,,,41
+jphp-group/jphp,F,5.1.1,N/A,,,,,0
+MeteorDevelopment/meteor-client:launch,error with test,8.3,no test,,,,,11
+centic9/jgit-cookbook,T,8.5,0,4,3,1,0,2
+neo4j-contrib/neo4j-apoc-procedures:core,error with test,8.4,error,,,,,4
+neo4j-contrib/neo4j-apoc-procedures:core-it,error with test,8.4,error,,,,,4
+neo4j-contrib/neo4j-apoc-procedures:full,error with test,8.4,error,,,,,4
+neo4j-contrib/neo4j-apoc-procedures:full-it,error with test,8.4,error,,,,,4
+neo4j-contrib/neo4j-apoc-procedures:processor,error with test,8.4,error,,,,,4
+neo4j-contrib/neo4j-apoc-procedures:test-utils,error with test,8.4,error,,,,,4
+googlemaps/google-maps-services-java,F,6.1.1,N/A,,,,,0
+Raysmond/SpringBlog,F,3.5.1,N/A,,,,,0
+athkalia/Just-Another-Android-App,F,4.4.1,N/A,,,,,0
+mattia-battiston/clean-architecture-example,F,2.11,N/A,,,,,0
+functionaljava/functionaljava:consume,T,7.4,0,1,0,0,1,21
+functionaljava/functionaljava:core,T,7.4,0,492,492,0,0,40
+functionaljava/functionaljava:demo,T,7.4,0,1,0,0,1,41
+functionaljava/functionaljava:java-core,T,7.4,0,1,0,0,1,43
+functionaljava/functionaljava:performance,T,7.4,0,1,0,0,1,44
+functionaljava/functionaljava:props-core,T,7.4,0,262,262,0,0,92
+functionaljava/functionaljava:props-core-scalacheck,T,7.4,0,1,1,0,0,102
+functionaljava/functionaljava:quickcheck,T,7.4,0,25,24,1,0,107
+broadinstitute/gatk,F,8.2.1,N/A,,,,,4
+mongodb/mongo-hadoop,F,2.2.1,N/A,,,,,0
+MightyPirates/OpenComputers,F,6.9.1,N/A,,,,,0
+jenkinsci/JenkinsPipelineUnit,T,8.0.2,1,259,258,0,1,23
+PaperMC/Velocity:deprecated-configurate3,error with test,8.5,error,,,,,4
+PaperMC/Velocity:velocity-api,error with test,8.5,error,,,,,4
+PaperMC/Velocity:velocity-native,error with test,8.5,error,,,,,4
+PaperMC/Velocity:velocity-proxy,error with test,8.5,error,,,,,5
+PaperMC/Velocity:velocity-proxy-log4j2-plugin,error with test,8.5,error,,,,,5
+MarquezProject/marquez:api,T,8.4,0,470,469,0,1,154
+MarquezProject/marquez:clients,T,8.4,no test,,,,,155
+spring-projects/spring-integration:spring-integration-amqp,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-bom,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-camel,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-cassandra,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-core,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-debezium,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-event,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-feed,T,8.5,error,,,,,46
+spring-projects/spring-integration:spring-integration-file,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-ftp,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-graphql,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-groovy,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-hazelcast,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-http,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-ip,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-jdbc,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-jms,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-jmx,T,8.5,error,,,,,47
+spring-projects/spring-integration:spring-integration-jpa,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-kafka,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-mail,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-mongodb,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-mqtt,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-r2dbc,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-redis,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-rsocket,T,8.5,error,,,,,48
+spring-projects/spring-integration:spring-integration-scripting,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-sftp,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-smb,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-stomp,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-stream,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-syslog,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-test,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-test-support,T,8.5,error,,,,,49
+spring-projects/spring-integration:spring-integration-webflux,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-websocket,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-ws,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-xml,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-xmpp,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-zeromq,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-zip,T,8.5,error,,,,,50
+spring-projects/spring-integration:spring-integration-zookeeper,T,8.5,error,,,,,50
+ajermakovics/jvm-mon,F,4.8,N/A,,,,,0
+o19s/elasticsearch-learning-to-rank:publish,T,8.1.1,no test,,,,,4
+o19s/elasticsearch-learning-to-rank:rest-api-spec,T,8.1.1,no test,,,,,4
+spring-projects/spring-statemachine:spring-statemachine-autoconfigure,T,7.6.1,0,9,9,0,0,32
+spring-projects/spring-statemachine:spring-statemachine-bom,T,7.6.1,no test,,,,,32
+spring-projects/spring-statemachine:spring-statemachine-build-tests,T,7.6.1,1,199,125,1,73,48
+spring-projects/spring-statemachine:spring-statemachine-cluster,T,7.6.1,0,1,1,0,0,49
+spring-projects/spring-statemachine:spring-statemachine-core,T,7.6.1,0,436,434,0,2,69
+spring-projects/spring-statemachine:spring-statemachine-data-common,T,7.6.1,no test,,,,,70
+spring-projects/spring-statemachine:spring-statemachine-kryo,T,7.6.1,0,3,3,0,0,70
+spring-projects/spring-statemachine:spring-statemachine-platform,T,7.6.1,no test,,,,,71
+spring-projects/spring-statemachine:spring-statemachine-recipes-common,T,7.6.1,0,20,20,0,0,76
+spring-projects/spring-statemachine:spring-statemachine-samples-common,T,7.6.1,no test,,,,,76
+spring-projects/spring-statemachine:spring-statemachine-starter,T,7.6.1,no test,,,,,76
+spring-projects/spring-statemachine:spring-statemachine-test,T,7.6.1,0,16,16,0,0,78
+spring-projects/spring-statemachine:spring-statemachine-uml,T,7.6.1,0,64,64,0,0,82
+spring-projects/spring-statemachine:spring-statemachine-zookeeper,T,7.6.1,0,33,33,0,0,88
+controlsfx/controlsfx:=>,T,7.4.1,error,,,,,4
+controlsfx/controlsfx:=>,T,7.4.1,error,,,,,4
+controlsfx/controlsfx:=>,T,7.4.1,error,,,,,4
+controlsfx/controlsfx:controlsfx,T,7.4.1,2,40,37,0,3,16
+controlsfx/controlsfx:controlsfx-samples,T,7.4.1,no test,,,,,16
+controlsfx/controlsfx:fxsampler,T,7.4.1,no test,,,,,16
+sleekbyte/tailor,F,3.1,N/A,,,,,0
+Netflix/servo:servo-apache,T,7.6,0,2,2,0,0,5
+Netflix/servo:servo-atlas,T,7.6,0,9,9,0,0,6
+Netflix/servo:servo-aws,T,7.6,0,6,6,0,0,7
+Netflix/servo:servo-core,T,7.6,1,337,337,0,0,9
+Netflix/servo:servo-example,T,7.6,no test,,,,,9
+Netflix/servo:servo-graphite,T,7.6,0,8,8,0,0,10
+Netflix/servo:servo-tomcat,T,7.6,no test,,,,,10
+doyensec/inql,error with test,8.0.2,no test,,,,,3
+rholder/guava-retrying,F,2.4,N/A,,,,,0
+loklak/loklak_server,F,5.6.2,N/A,,,,,1
+ReactiveX/RxNetty,F,2.13,N/A,,,,,0
+Netflix/mantis:mantis-client,T,7.5,error,,,,,10
+Netflix/mantis:mantis-common,T,7.5,error,,,,,12
+Netflix/mantis:mantis-common-serde,T,7.5,no test,,,,,12
+Netflix/mantis:mantis-connectors,T,7.5,no test,,,,,12
+Netflix/mantis:mantis-control-plane,T,7.5,no test,,,,,13
+Netflix/mantis:mantis-discovery-proto,T,7.5,0,2,2,0,0,13
+Netflix/mantis:mantis-examples,T,7.5,no test,,,,,14
+Netflix/mantis:mantis-network,T,7.5,error,,,,,14
+Netflix/mantis:mantis-publish,T,7.5,no test,,,,,14
+Netflix/mantis:mantis-remote-observable,T,7.5,error,,,,,15
+Netflix/mantis:mantis-runtime,T,7.5,error,,,,,16
+Netflix/mantis:mantis-runtime-loader,T,7.5,error,,,,,17
+Netflix/mantis:mantis-server,T,7.5,no test,,,,,18
+Netflix/mantis:mantis-shaded,T,7.5,no test,,,,,18
+Netflix/mantis:mantis-source-jobs,T,7.5,no test,,,,,19
+Netflix/mantis:mantis-testcontainers,T,7.5,error,,,,,20
+geogebra/geogebra:carota-web,T,7.4.2,no test,,,,,48
+geogebra/geogebra:common,T,7.4.2,0,0,0,0,0,48
+geogebra/geogebra:common-jre,T,7.4.2,error,2525,2519,0,6,60
+geogebra/geogebra:desktop,T,7.4.2,error,657,104,550,3,65
+geogebra/geogebra:editor-base,T,7.4.2,error,18,18,0,0,65
+geogebra/geogebra:editor-desktop,T,7.4.2,no test,,,,,65
+geogebra/geogebra:editor-web,T,7.4.2,no test,,,,,66
+geogebra/geogebra:ggbjdk,T,7.4.2,no test,,,,,66
+geogebra/geogebra:giac-jni,T,7.4.2,no test,,,,,66
+geogebra/geogebra:gwtutil,T,7.4.2,no test,,,,,67
+geogebra/geogebra:jogl2,T,7.4.2,0,0,0,0,0,67
+geogebra/geogebra:keyboard-base,T,7.4.2,error,5,5,0,0,67
+geogebra/geogebra:keyboard-scientific,T,7.4.2,error,4,4,0,0,68
+geogebra/geogebra:keyboard-web,T,7.4.2,no test,,,,,69
+geogebra/geogebra:renderer-base,T,7.4.2,no test,,,,,69
+geogebra/geogebra:renderer-desktop,T,7.4.2,error,1,0,0,1,69
+geogebra/geogebra:renderer-web,T,7.4.2,no test,,,,,70
+geogebra/geogebra:test,T,7.4.2,no test,,,,,70
+geogebra/geogebra:web,T,7.4.2,error,110,110,0,0,85
+geogebra/geogebra:web-common,T,7.4.2,no test,,,,,85
+geogebra/geogebra:web-dev,T,7.4.2,no test,,,,,85
+geogebra/geogebra:xr-base,T,7.4.2,no test,,,,,85
+mcxiaoke/gradle-packer-plugin,F,2.8,N/A,,,,,0
+HanSolo/tilesfx,F,6.7,N/A,,,,,0
+cuba-platform/cuba,F,5.6.4,N/A,,,,,0
+scratchfoundation/scratch-flash,F,2.5,N/A,,,,,0
+PortSwigger/turbo-intruder,error with test,7.2,no test,,,,,5
+BuildCraft/BuildCraft,F,4.3.1,N/A,,,,,0
+AppliedEnergistics/Applied-Energistics-2:libs,error with test,8.5,no test,,,,,46
+bintray/gradle-bintray-plugin,F,5.6.2,N/A,,,,,0
+treasure-data/digdag,F,6.9.2,N/A,,,,,0
+jodconverter/jodconverter:jodconverter-cli,T,7.6,0,41,41,0,0,13
+jodconverter/jodconverter:jodconverter-core,T,7.6,0,254,242,0,12,15
+jodconverter/jodconverter:jodconverter-local,T,7.6,0,275,265,0,10,17
+jodconverter/jodconverter:jodconverter-local-lo,T,7.6,no test,,,,,17
+jodconverter/jodconverter:jodconverter-local-oo,T,7.6,no test,,,,,17
+jodconverter/jodconverter:jodconverter-remote,T,7.6,0,15,15,0,0,18
+jodconverter/jodconverter:jodconverter-spring,T,7.6,0,2,2,0,0,18
+jodconverter/jodconverter:jodconverter-spring-boot-starter,T,7.6,no test,,,,,19
+spinnaker/kayenta:kayenta-atlas,T,7.6.1,0,38,38,0,0,37
+spinnaker/kayenta:kayenta-aws,T,7.6.1,no test,,,,,38
+spinnaker/kayenta:kayenta-azure,T,7.6.1,no test,,,,,38
+spinnaker/kayenta:kayenta-blobs,T,7.6.1,0,24,24,0,0,40
+spinnaker/kayenta:kayenta-bom,T,7.6.1,no test,,,,,40
+spinnaker/kayenta:kayenta-core,T,7.6.1,0,113,113,0,0,45
+spinnaker/kayenta:kayenta-datadog,T,7.6.1,0,6,6,0,0,48
+spinnaker/kayenta:kayenta-gcs,T,7.6.1,no test,,,,,49
+spinnaker/kayenta:kayenta-google,T,7.6.1,no test,,,,,49
+spinnaker/kayenta:kayenta-graphite,T,7.6.1,0,1,1,0,0,52
+spinnaker/kayenta:kayenta-influxdb,T,7.6.1,0,13,13,0,0,54
+spinnaker/kayenta:kayenta-integration-tests,T,7.6.1,0,8,8,0,0,144
+spinnaker/kayenta:kayenta-judge,T,7.6.1,0,87,87,0,0,146
+spinnaker/kayenta:kayenta-mannwhitney,T,7.6.1,0,7,7,0,0,147
+spinnaker/kayenta:kayenta-newrelic-insights,T,7.6.1,0,7,7,0,0,148
+spinnaker/kayenta:kayenta-objectstore-configbin,T,7.6.1,no test,,,,,148
+spinnaker/kayenta:kayenta-objectstore-memory,T,7.6.1,no test,,,,,148
+spinnaker/kayenta:kayenta-orca,T,7.6.1,no test,,,,,148
+spinnaker/kayenta:kayenta-prometheus,T,7.6.1,0,38,38,0,0,150
+spinnaker/kayenta:kayenta-s3,T,7.6.1,no test,,,,,150
+spinnaker/kayenta:kayenta-signalfx,T,7.6.1,0,16,16,0,0,151
+spinnaker/kayenta:kayenta-sql,T,7.6.1,0,18,18,0,0,153
+spinnaker/kayenta:kayenta-stackdriver,T,7.6.1,0,25,25,0,0,156
+spinnaker/kayenta:kayenta-standalone-canary-analysis,T,7.6.1,0,16,16,0,0,158
+spinnaker/kayenta:kayenta-wavefront,T,7.6.1,0,10,10,0,0,159
+spinnaker/kayenta:kayenta-web,T,7.6.1,0,5,5,0,0,162
+alfio-event/alf.io,T,8.5,0,719,719,0,0,124
+methusalah/OpenRTS,F,4.9,N/A,,,,,0
+gothinkster/spring-boot-realworld-example-app,T,7.4,0,68,68,0,0,8
+Kotlin/kotlin-fullstack-sample,F,4.2.1,N/A,,,,,0
+mapstruct/mapstruct-examples,error with test,8.3,no test,,,,,3
+SlimeKnights/TinkersConstruct,F,7.3,N/A,,,,,1
+linkedin/parseq,F,6.3,N/A,,,,,0
+SpongePowered/SpongeForge,F,4.10.3,N/A,,,,,0
+PureWriter/desktop,F,5.6.4,N/A,,,,,0
+spring-projects/spring-restdocs:docs,T,7.2,0,0,0,0,0,13
+spring-projects/spring-restdocs:spring-restdocs-asciidoctor,T,7.2,1,61,61,0,0,46
+spring-projects/spring-restdocs:spring-restdocs-bom,T,7.2,no test,,,,,46
+spring-projects/spring-restdocs:spring-restdocs-core,T,7.2,4,877,877,0,0,50
+spring-projects/spring-restdocs:spring-restdocs-mockmvc,T,7.2,2,71,71,0,0,53
+spring-projects/spring-restdocs:spring-restdocs-platform,T,7.2,no test,,,,,53
+spring-projects/spring-restdocs:spring-restdocs-restassured,T,7.2,2,67,67,0,0,58
+spring-projects/spring-restdocs:spring-restdocs-webtestclient,T,7.2,0,28,28,0,0,60
+PortSwigger/param-miner,error with test,7.2,no test,,,,,2
+zxh0/classpy,F,6.7,N/A,,,,,0
+jbake-org/jbake:jbake-core,T,7.3.3,0,274,274,0,0,54
+jbake-org/jbake:jbake-dist,T,7.3.3,no test,,,,,55
+jbake-org/jbake:jbake-maven-plugin,T,7.3.3,no test,,,,,55
+sgroschupf/zkclient,F,1.3,N/A,,,,,0
+TeamNewPipe/NewPipeExtractor:extractor,T,7.5.1,4,2195,2119,5,71,28
+TeamNewPipe/NewPipeExtractor:timeago-parser,T,7.5.1,no test,,,,,28
+vektah/CodeGlance,F,3.3,N/A,,,,,0
+Grover-c13/PokeGOAPI-Java,F,3.0,N/A,,,,,0
+jojoldu/freelec-springboot2-webservice,F,4.10.2,N/A,,,,,0
+sirixdb/sirix:sirix-core,T,8.4,error,652,599,0,53,301
+sirixdb/sirix:sirix-example,T,8.4,no test,,,,,301
+sirixdb/sirix:sirix-kotlin-api,T,8.4,error,7,6,0,1,318
+sirixdb/sirix:sirix-kotlin-cli,T,8.4,error,14,14,0,0,349
+sirixdb/sirix:sirix-query,T,8.4,error,169,169,0,0,388
+sirixdb/sirix:sirix-rest-api,T,8.4,error,66,66,0,0,404
+intellij-solidity/intellij-solidity,T,7.6,0,413,413,0,0,30
+CCBlueX/LiquidBounce,error with test,8.3,error,,,,,24
+microsoft/HydraLab,F,6.9.4,N/A,,,,,0
+bobbylight/RSyntaxTextArea:RSyntaxTextArea,T,8.2.1,0,2868,2840,2,26,15
+bobbylight/RSyntaxTextArea:RSyntaxTextAreaDemo,T,8.2.1,no test,,,,,15
+palexdev/MaterialFX:=>,T,8.4,error,,,,,6
+palexdev/MaterialFX:=>,T,8.4,error,,,,,6
+palexdev/MaterialFX:demo,T,8.4,error,,,,,6
+palexdev/MaterialFX:materialfx,T,8.4,error,,,,,7
+SpencerPark/IJava,F,4.8.1,N/A,,,,,0
+jython/jython,T,7.4.2,error,,,,,11
+leventov/Koloboke,F,2.0,N/A,,,,,0
+syvaidya/openstego,T,7.5.1,0,25,25,0,0,7
+dboissier/mongo4idea,F,5.2.1,N/A,,,,,0
+lenskit/lenskit,F,4.8,N/A,,,,,0
+conductor-oss/conductor:conductor-amqp,T,7.6.2,0,19,19,0,0,48
+conductor-oss/conductor:conductor-annotations,T,7.6.2,no test,,,,,48
+conductor-oss/conductor:conductor-annotations-processor,T,7.6.2,1,1,1,0,0,50
+conductor-oss/conductor:conductor-awss3-storage,T,7.6.2,no test,,,,,51
+conductor-oss/conductor:conductor-awssqs-event-queue,T,7.6.2,0,5,5,0,0,55
+conductor-oss/conductor:conductor-azureblob-storage,T,7.6.2,0,5,5,0,0,58
+conductor-oss/conductor:conductor-cassandra-persistence,T,7.6.2,0,4,1,3,0,173
+conductor-oss/conductor:conductor-client,T,7.6.2,0,45,45,0,0,183
+conductor-oss/conductor:conductor-client-spring,T,7.6.2,0,0,0,0,0,184
+conductor-oss/conductor:conductor-common,T,7.6.2,2,46,46,0,0,188
+conductor-oss/conductor:conductor-common-persistence,T,7.6.2,0,0,0,0,0,189
+conductor-oss/conductor:conductor-core,T,7.6.2,0,453,446,0,7,210
+conductor-oss/conductor:conductor-es6-persistence,T,7.6.2,0,60,60,0,0,300
+conductor-oss/conductor:conductor-es7-persistence,T,7.6.2,0,40,40,0,0,334
+conductor-oss/conductor:conductor-grpc,T,7.6.2,0,2,2,0,0,335
+conductor-oss/conductor:conductor-grpc-client,T,7.6.2,0,15,15,0,0,339
+conductor-oss/conductor:conductor-grpc-server,T,7.6.2,0,11,11,0,0,342
+conductor-oss/conductor:conductor-http-task,T,7.6.2,0,13,12,0,1,349
+conductor-oss/conductor:conductor-java-sdk,T,7.6.2,0,33,28,1,4,359
+conductor-oss/conductor:conductor-json-jq-task,T,7.6.2,0,7,7,0,0,360
+conductor-oss/conductor:conductor-kafka,T,7.6.2,2,21,21,0,0,373
+conductor-oss/conductor:conductor-metrics,T,7.6.2,0,2,2,0,0,376
+conductor-oss/conductor:conductor-mysql-persistence,T,7.6.2,1,25,25,0,0,425
+conductor-oss/conductor:conductor-nats,T,7.6.2,no test,,,,,425
+conductor-oss/conductor:conductor-nats-streaming,T,7.6.2,no test,,,,,426
+conductor-oss/conductor:conductor-postgres-external-storage,T,7.6.2,1,9,9,0,0,450
+conductor-oss/conductor:conductor-postgres-persistence,T,7.6.2,0,54,54,0,0,482
+conductor-oss/conductor:conductor-redis-concurrency-limit,T,7.6.2,0,10,10,0,0,490
+conductor-oss/conductor:conductor-redis-lock,T,7.6.2,0,9,9,0,0,495
+conductor-oss/conductor:conductor-redis-persistence,T,7.6.2,1,231,231,0,0,502
+conductor-oss/conductor:conductor-rest,T,7.6.2,0,57,57,0,0,506
+conductor-oss/conductor:conductor-server,T,7.6.2,0,3,3,0,0,523
+conductor-oss/conductor:conductor-test-harness,T,7.6.2,2,199,199,0,0,601
+conductor-oss/conductor:conductor-test-util,T,7.6.2,0,0,0,0,0,604
+conductor-oss/conductor:conductor-workflow-event-listener,T,7.6.2,0,4,4,0,0,618
+hamvocke/spring-testing,T,8.4,0,19,18,1,0,18
+JackOfMostTrades/gadgetinspector,F,4.9,N/A,,,,,0
+zalando/nakadi,F,6.8.3,N/A,,,,,1
+wpilibsuite/allwpilib:apriltag,T,8.5,0,20,20,0,0,138
+wpilibsuite/allwpilib:cameraserver,T,8.5,no test,,,,,147
+wpilibsuite/allwpilib:crossConnIntegrationTests,T,8.5,no test,,,,,148
+wpilibsuite/allwpilib:cscore,T,8.5,0,4,4,0,0,152
+wpilibsuite/allwpilib:datalogtool,T,8.5,no test,,,,,154
+wpilibsuite/allwpilib:docs,T,8.5,no test,,,,,155
+wpilibsuite/allwpilib:fieldImages,T,8.5,0,12,12,0,0,157
+wpilibsuite/allwpilib:glass,T,8.5,no test,,,,,158
+wpilibsuite/allwpilib:hal,T,8.5,0,1,1,0,0,165
+wpilibsuite/allwpilib:msvcruntime,T,8.5,no test,,,,,165
+wpilibsuite/allwpilib:myRobot,T,8.5,no test,,,,,167
+wpilibsuite/allwpilib:ntcore,T,8.5,0,35,34,0,1,170
+wpilibsuite/allwpilib:ntcoreffi,T,8.5,no test,,,,,172
+wpilibsuite/allwpilib:outlineviewer,T,8.5,no test,,,,,173
+wpilibsuite/allwpilib:processstarter,T,8.5,no test,,,,,174
+wpilibsuite/allwpilib:roborioteamnumbersetter,T,8.5,no test,,,,,175
+wpilibsuite/allwpilib:romiVendordep,T,8.5,no test,,,,,193
+wpilibsuite/allwpilib:simulation,T,8.5,no test,,,,,195
+wpilibsuite/allwpilib:sysid,T,8.5,no test,,,,,197
+wpilibsuite/allwpilib:wpigui,T,8.5,no test,,,,,198
+wpilibsuite/allwpilib:wpilibc,T,8.5,no test,,,,,199
+wpilibsuite/allwpilib:wpilibcExamples,T,8.5,no test,,,,,200
+wpilibsuite/allwpilib:wpilibcIntegrationTests,T,8.5,no test,,,,,200
+wpilibsuite/allwpilib:wpilibj,T,8.5,0,521,519,0,2,206
+wpilibsuite/allwpilib:wpilibjExamples,T,8.5,no test,,,,,219
+wpilibsuite/allwpilib:wpilibjIntegrationTests,T,8.5,no test,,,,,219
+wpilibsuite/allwpilib:wpilibNewCommands,T,8.5,0,242,242,0,0,230
+wpilibsuite/allwpilib:wpimath,T,8.5,0,525,525,0,0,236
+wpilibsuite/allwpilib:wpinet,T,8.5,0,1,1,0,0,239
+wpilibsuite/allwpilib:wpiunits,T,8.5,0,103,103,0,0,242
+wpilibsuite/allwpilib:wpiutil,T,8.5,0,97,97,0,0,245
+wpilibsuite/allwpilib:xrpVendordep,T,8.5,no test,,,,,247
+SkriptLang/Skript,error with test,8.3,no test,,,,,17
+PortSwigger/http-request-smuggler,error with test,7.2,no test,,,,,9
+Earthcomputer/clientcommands,error with test,8.4,no test,,,,,25
+momosecurity/momo-code-sec-inspector-java,F,6.1.1,N/A,,,,,0
+broadinstitute/picard,T,8.5,error,,,,,266
+Wurst-Imperium/Wurst7,error with test,8.5,no test,,,,,13
+Vineflower/vineflower,T,7.3.3,error,887,887,0,0,33
+fvarrui/JavaPackager:winrun4j-launcher,error with test,8.0.2,error,,,,,4
+TestFX/TestFX,F,6.5.1,N/A,,,,,0
+paulc4/microservices-demo,F,4.10.2,N/A,,,,,0
+Multiverse/Multiverse-Core,T,7.6,0,18,18,0,0,11
+srs/gradle-node-plugin,F,5.2.1,N/A,,,,,0
+apple/servicetalk:servicetalk-annotations,T,8.3,no test,,,,,14
+apple/servicetalk:servicetalk-benchmarks,T,8.3,no test,,,,,17
+apple/servicetalk:servicetalk-bom,T,8.3,no test,,,,,17
+apple/servicetalk:servicetalk-buffer-api,T,8.3,0,69,68,0,1,19
+apple/servicetalk:servicetalk-buffer-netty,T,8.3,1,92,92,0,0,22
+apple/servicetalk:servicetalk-client-api,T,8.3,0,6,6,0,0,25
+apple/servicetalk:servicetalk-client-api-internal,T,8.3,0,40,40,0,0,26
+apple/servicetalk:servicetalk-concurrent,T,8.3,no test,,,,,26
+apple/servicetalk:servicetalk-concurrent-api,T,8.3,5,3095,3080,3,12,53
+apple/servicetalk:servicetalk-concurrent-api-internal,T,8.3,0,133,133,0,0,55
+apple/servicetalk:servicetalk-concurrent-api-test,T,8.3,0,135,135,0,0,56
+apple/servicetalk:servicetalk-concurrent-internal,T,8.3,0,51,51,0,0,58
+apple/servicetalk:servicetalk-concurrent-jdkflow,T,8.3,0,9,9,0,0,60
+apple/servicetalk:servicetalk-concurrent-reactivestreams,T,8.3,0,21,21,0,0,66
+apple/servicetalk:servicetalk-concurrent-test-internal,T,8.3,0,36,36,0,0,68
+apple/servicetalk:servicetalk-context-api,T,8.3,0,2,2,0,0,69
+apple/servicetalk:servicetalk-data-jackson,T,8.3,0,74,72,0,2,70
+apple/servicetalk:servicetalk-data-jackson-jersey,T,8.3,299,1640,1334,105,201,388
+apple/servicetalk:servicetalk-data-protobuf,T,8.3,0,42,42,0,0,394
+apple/servicetalk:servicetalk-data-protobuf-jersey,T,8.3,422,1619,1322,95,202,702
+apple/servicetalk:servicetalk-dependencies,T,8.3,no test,,,,,703
+apple/servicetalk:servicetalk-dns-discovery-netty,T,8.3,1,74,74,0,0,708
+apple/servicetalk:servicetalk-encoding-api,T,8.3,0,7,7,0,0,708
+apple/servicetalk:servicetalk-encoding-api-internal,T,8.3,no test,,,,,709
+apple/servicetalk:servicetalk-encoding-netty,T,8.3,0,21,21,0,0,709
+apple/servicetalk:servicetalk-examples,T,8.3,no test,,,,,709
+apple/servicetalk:servicetalk-gradle-plugin-internal,T,8.3,no test,,,,,710
+apple/servicetalk:servicetalk-grpc-api,T,8.3,0,5,5,0,0,711
+apple/servicetalk:servicetalk-grpc-health,T,8.3,0,8,8,0,0,713
+apple/servicetalk:servicetalk-grpc-internal,T,8.3,0,28,28,0,0,714
+apple/servicetalk:servicetalk-grpc-netty,T,8.3,1,1428,1403,1,24,737
+apple/servicetalk:servicetalk-grpc-protobuf,T,8.3,0,10,10,0,0,737
+apple/servicetalk:servicetalk-grpc-protoc,T,8.3,0,34,34,0,0,739
+apple/servicetalk:servicetalk-grpc-utils,T,8.3,0,5,5,0,0,741
+apple/servicetalk:servicetalk-http-api,T,8.3,1,973,877,0,96,744
+apple/servicetalk:servicetalk-http-netty,T,8.3,0,8359,8246,2,111,808
+apple/servicetalk:servicetalk-http-router-jersey,T,8.3,307,1540,1239,97,204,1003
+apple/servicetalk:servicetalk-http-router-jersey-internal,T,8.3,no test,,,,,1004
+apple/servicetalk:servicetalk-http-router-predicate,T,8.3,0,62,59,0,3,1007
+apple/servicetalk:servicetalk-http-security-jersey,T,8.3,0,26,26,0,0,1010
+apple/servicetalk:servicetalk-http-utils,T,8.3,0,184,184,0,0,1013
+apple/servicetalk:servicetalk-loadbalancer,T,8.3,8,255,253,0,2,1015
+apple/servicetalk:servicetalk-log4j2-mdc,T,8.3,0,1,1,0,0,1015
+apple/servicetalk:servicetalk-log4j2-mdc-utils,T,8.3,0,3,3,0,0,1016
+apple/servicetalk:servicetalk-logging-api,T,8.3,no test,,,,,1016
+apple/servicetalk:servicetalk-logging-slf4j-internal,T,8.3,no test,,,,,1016
+apple/servicetalk:servicetalk-oio-api,T,8.3,no test,,,,,1016
+apple/servicetalk:servicetalk-oio-api-internal,T,8.3,no test,,,,,1016
+apple/servicetalk:servicetalk-opentelemetry-asynccontext,T,8.3,0,2,2,0,0,1017
+apple/servicetalk:servicetalk-opentelemetry-http,T,8.3,0,18,18,0,0,1019
+apple/servicetalk:servicetalk-opentracing-asynccontext,T,8.3,0,2,2,0,0,1020
+apple/servicetalk:servicetalk-opentracing-http,T,8.3,0,10,10,0,0,1021
+apple/servicetalk:servicetalk-opentracing-inmemory,T,8.3,0,3,3,0,0,1022
+apple/servicetalk:servicetalk-opentracing-inmemory-api,T,8.3,no test,,,,,1022
+apple/servicetalk:servicetalk-opentracing-internal,T,8.3,no test,,,,,1022
+apple/servicetalk:servicetalk-opentracing-log4j2,T,8.3,0,4,4,0,0,1023
+apple/servicetalk:servicetalk-opentracing-zipkin-publisher,T,8.3,0,35,35,0,0,1024
+apple/servicetalk:servicetalk-router-api,T,8.3,no test,,,,,1024
+apple/servicetalk:servicetalk-router-utils-internal,T,8.3,no test,,,,,1024
+apple/servicetalk:servicetalk-serialization-api,T,8.3,0,40,40,0,0,1025
+apple/servicetalk:servicetalk-serializer-api,T,8.3,no test,,,,,1025
+apple/servicetalk:servicetalk-serializer-utils,T,8.3,0,52,52,0,0,1026
+apple/servicetalk:servicetalk-tcp-netty-internal,T,8.3,0,67,66,0,1,1028
+apple/servicetalk:servicetalk-test-resources,T,8.3,0,9,9,0,0,1029
+apple/servicetalk:servicetalk-transport-api,T,8.3,0,43,43,0,0,1029
+apple/servicetalk:servicetalk-transport-netty,T,8.3,no test,,,,,1030
+apple/servicetalk:servicetalk-transport-netty-internal,T,8.3,0,349,349,0,0,1035
+apple/servicetalk:servicetalk-utils-internal,T,8.3,0,14,14,0,0,1035
+eugene-khyst/postgresql-event-sourcing:event-sourcing-app,error with test,8.4,error,,,,,1
+eugene-khyst/postgresql-event-sourcing:postgresql-event-sourcing-core,error with test,8.4,error,,,,,2
+jshiell/checkstyle-idea,T,8.4,error,112,112,0,0,20
+Earthcomputer/EnchantmentCracker,F,6.3,N/A,,,,,0
+dmulloy2/ProtocolLib,error with test,8.5,error,,,,,2
+spotify/heroic,F,5.2.1,N/A,,,,,0
+researchgate/gradle-release,F,6.9.2,N/A,,,,,0
+ringo/ringojs,T,7.4.2,error,,,,,3
+GrimAnticheat/Grim,error with test,7.4,error,,,,,3
+Netflix/governator:governator,T,7.5.1,0,149,17,132,0,7
+Netflix/governator:governator-annotations,T,7.5.1,no test,,,,,7
+Netflix/governator:governator-api,T,7.5.1,no test,,,,,7
+Netflix/governator:governator-archaius,T,7.5.1,0,7,7,0,0,8
+Netflix/governator:governator-commons-cli,T,7.5.1,0,0,0,0,0,8
+Netflix/governator:governator-core,T,7.5.1,0,60,8,52,0,9
+Netflix/governator:governator-jersey,T,7.5.1,0,5,0,5,0,9
+Netflix/governator:governator-jetty,T,7.5.1,0,3,0,3,0,10
+Netflix/governator:governator-providers,T,7.5.1,0,7,0,7,0,10
+Netflix/governator:governator-servlet,T,7.5.1,0,2,0,2,0,10
+Netflix/governator:governator-test,T,7.5.1,0,4,4,0,0,11
+Netflix/governator:governator-test-junit,T,7.5.1,0,4,0,4,0,11
+Netflix/governator:governator-test-spock,T,7.5.1,0,2,0,2,0,12
+FabricMC/yarn,error with test,8.3,error,,,,,1
+openrndr/openrndr:openrndr-animatable,T,8.5,error,,,,,13
+openrndr/openrndr:openrndr-application,T,8.5,error,,,,,13
+openrndr/openrndr:openrndr-binpack,T,8.5,error,,,,,14
+openrndr/openrndr:openrndr-color,T,8.5,error,,,,,14
+openrndr/openrndr:openrndr-core,T,8.5,error,,,,,14
+openrndr/openrndr:openrndr-dds,T,8.5,error,,,,,14
+openrndr/openrndr:openrndr-demos,T,8.5,error,,,,,15
+openrndr/openrndr:openrndr-draw,T,8.5,error,,,,,15
+openrndr/openrndr:openrndr-event,T,8.5,error,,,,,15
+openrndr/openrndr:openrndr-extensions,T,8.5,error,,,,,15
+openrndr/openrndr:openrndr-filter,T,8.5,error,,,,,16
+openrndr/openrndr:openrndr-gl-common,T,8.5,error,,,,,16
+openrndr/openrndr:openrndr-js,T,8.5,error,,,,,16
+openrndr/openrndr:openrndr-jvm,T,8.5,error,,,,,16
+openrndr/openrndr:openrndr-kartifex,T,8.5,error,,,,,17
+openrndr/openrndr:openrndr-ktessellation,T,8.5,error,,,,,17
+openrndr/openrndr:openrndr-math,T,8.5,error,,,,,17
+openrndr/openrndr:openrndr-nullgl,T,8.5,error,,,,,17
+openrndr/openrndr:openrndr-shape,T,8.5,error,,,,,18
+openrndr/openrndr:openrndr-svg,T,8.5,error,,,,,18
+openrndr/openrndr:openrndr-utils,T,8.5,error,,,,,18
+chatty/chatty,F,8.2.1,N/A,,,,,0
+e-commerce-sample/ecommerce-order-service,F,5.6,N/A,,,,,0
+eventuate-local/eventuate-local,F,6.9.1,N/A,,,,,0
+yidongnan/spring-cloud-netflix-example,F,4.7,N/A,,,,,0
+apache/samza,F,6.9.2,N/A,,,,,0
+KennFalcon/elasticsearch-analysis-hanlp,F,6.8,N/A,,,,,0
+spring-projects/spring-amqp:spring-amqp,T,8.4,no test,,,,,10
+spring-projects/spring-amqp:spring-amqp-bom,T,8.4,no test,,,,,10
+spring-projects/spring-amqp:spring-rabbit,T,8.4,no test,,,,,32
+spring-projects/spring-amqp:spring-rabbit-junit,T,8.4,no test,,,,,32
+spring-projects/spring-amqp:spring-rabbit-stream,T,8.4,error,,,,,48
+spring-projects/spring-amqp:spring-rabbit-test,T,8.4,no test,,,,,50
+19MisterX98/SeedcrackerX,error with test,8.5,no test,,,,,14
+ifnoelse/pdf-bookmark,F,5.2.1,N/A,,,,,0
+LINBIT/linstor-server:controller,error with test,7.3.3,error,,,,,2
+LINBIT/linstor-server:jclcrypto,error with test,7.3.3,error,,,,,2
+LINBIT/linstor-server:satellite,error with test,7.3.3,error,,,,,2
+LINBIT/linstor-server:server,error with test,7.3.3,error,,,,,2
+bsideup/jabel:example,T,7.5,error,10,10,0,0,2
+bsideup/jabel:jabel-javac-plugin,T,7.5,no test,,,,,2
+gogradle/gogradle,F,6.3,N/A,,,,,0
+apache/flink-training,F,7.1,N/A,,,,,0
+apache/ofbiz,F,3.2.1,N/A,,,,,3
+elki-project/elki:ELKI,T,7.3.3,0,43,43,0,0,18
+elki-project/elki:ELKI,T,7.3.3,no test,43,43,0,0,19
+elki-project/elki:elki,T,7.3.3,no test,43,43,0,0,19
+elki-project/elki:elki-3dpc,T,7.3.3,no test,,,,,20
+elki-project/elki:elki-batik-visualization,T,7.3.3,no test,,,,,20
+elki-project/elki:elki-bundle,T,7.3.3,0,1,1,0,0,22
+elki-project/elki:elki-classification,T,7.3.3,0,2,2,0,0,23
+elki-project/elki:elki-clustering,T,7.3.3,0,331,331,0,0,31
+elki-project/elki:elki-core,T,7.3.3,0,17,17,0,0,32
+elki-project/elki:elki-core-api,T,7.3.3,0,9,9,0,0,33
+elki-project/elki:elki-core-data,T,7.3.3,0,6,6,0,0,34
+elki-project/elki:elki-core-dbids,T,7.3.3,no test,,,,,34
+elki-project/elki:elki-core-dbids-int,T,7.3.3,0,4,4,0,0,34
+elki-project/elki:elki-core-distance,T,7.3.3,0,74,74,0,0,39
+elki-project/elki:elki-core-math,T,7.3.3,0,414,414,0,0,42
+elki-project/elki:elki-core-parallel,T,7.3.3,no test,,,,,42
+elki-project/elki:elki-core-util,T,7.3.3,1,94,92,0,2,43
+elki-project/elki:elki-data-generator,T,7.3.3,0,1,1,0,0,44
+elki-project/elki:elki-database,T,7.3.3,0,1,1,0,0,45
+elki-project/elki:elki-docutil,T,7.3.3,no test,,,,,45
+elki-project/elki:elki-geo,T,7.3.3,0,4,4,0,0,46
+elki-project/elki:elki-gui-minigui,T,7.3.3,no test,,,,,46
+elki-project/elki:elki-index,T,7.3.3,no test,,,,,46
+elki-project/elki:elki-index-lsh,T,7.3.3,0,2,2,0,0,47
+elki-project/elki:elki-index-mtree,T,7.3.3,0,10,10,0,0,48
+elki-project/elki:elki-index-preprocessed,T,7.3.3,0,12,12,0,0,50
+elki-project/elki:elki-index-rtree,T,7.3.3,0,22,22,0,0,52
+elki-project/elki:elki-index-various,T,7.3.3,0,21,21,0,0,52
+elki-project/elki:elki-input,T,7.3.3,0,40,40,0,0,53
+elki-project/elki:elki-itemsets,T,7.3.3,0,26,26,0,0,54
+elki-project/elki:elki-libsvm,T,7.3.3,0,1,1,0,0,55
+elki-project/elki:elki-logging,T,7.3.3,0,1,1,0,0,55
+elki-project/elki:elki-outlier,T,7.3.3,0,77,77,0,0,68
+elki-project/elki:elki-persistent,T,7.3.3,0,2,2,0,0,69
+elki-project/elki:elki-precomputed,T,7.3.3,0,2,2,0,0,69
+elki-project/elki:elki-svm,T,7.3.3,0,6,6,0,0,70
+elki-project/elki:elki-test-core,T,7.3.3,no test,,,,,71
+elki-project/elki:elki-timeseries,T,7.3.3,0,3,3,0,0,71
+elki-project/elki:elki-tutorial,T,7.3.3,0,21,21,0,0,74
+elki-project/elki:elki-uncertain,T,7.3.3,no test,,,,,74
+spockframework/spock-example,T,8.5,error,40,40,0,0,4
+kotlin-telegram-bot/kotlin-telegram-bot:dispatcher,T,8.3,error,,,,,17
+kotlin-telegram-bot/kotlin-telegram-bot:echo,T,8.3,error,,,,,17
+kotlin-telegram-bot/kotlin-telegram-bot:polls,T,8.3,error,,,,,17
+kotlin-telegram-bot/kotlin-telegram-bot:telegram,T,8.3,error,,,,,17
+kotlin-telegram-bot/kotlin-telegram-bot:webhook,T,8.3,error,,,,,18
+gazbert/bxbot:bxbot-app,T,8.3,no test,,,,,14
+gazbert/bxbot:bxbot-core,T,8.3,0,0,0,0,0,14
+gazbert/bxbot:bxbot-domain-objects,T,8.3,0,0,0,0,0,14
+gazbert/bxbot:bxbot-exchange-api,T,8.3,no test,,,,,15
+gazbert/bxbot:bxbot-exchanges,T,8.3,3,220,220,0,0,34
+gazbert/bxbot:bxbot-repository,T,8.3,0,0,0,0,0,34
+gazbert/bxbot:bxbot-rest-api,T,8.3,0,0,0,0,0,35
+gazbert/bxbot:bxbot-services,T,8.3,0,0,0,0,0,35
+gazbert/bxbot:bxbot-strategies,T,8.3,0,11,11,0,0,38
+gazbert/bxbot:bxbot-strategy-api,T,8.3,0,0,0,0,0,38
+gazbert/bxbot:bxbot-trading-api,T,8.3,0,0,0,0,0,38
+gazbert/bxbot:bxbot-yaml-datastore,T,8.3,0,0,0,0,0,39
+alexzaitsev/apk-dependency-graph,F,5.2.1,N/A,,,,,0
+hrldcpr/pcollections,T,7.5.1,0,263,263,0,0,10
+springfox/springfox-demos,F,6.5,N/A,,,,,0
+carrot2/carrot2,F,8.4,N/A,,,,,5
+BleachDev/BleachHack,error with test,8.0.1,no test,,,,,5
+stripe/stripe-java,T,7.3.1,1,221,62,159,0,41
+deliveredtechnologies/rulebook,F,4.2,N/A,,,,,0
+KaptainWutax/SeedCracker,F,7.0,N/A,,,,,0
+tony-framework/TonY,F,4.10.2,N/A,,,,,0
+ical4j/ical4j,T,8.4,0,2533,2417,3,113,52
+java-decompiler/jd-eclipse,F,5.2.1,N/A,,,,,0
+spring-projects/spring-shell:spring-shell-autoconfigure,T,8.4,0,39,39,0,0,21
+spring-projects/spring-shell:spring-shell-core,T,8.4,0,627,627,0,0,30
+spring-projects/spring-shell:spring-shell-core-test-support,T,8.4,no test,,,,,31
+spring-projects/spring-shell:spring-shell-dependencies,T,8.4,no test,,,,,31
+spring-projects/spring-shell:spring-shell-docs,T,8.4,0,0,0,0,0,32
+spring-projects/spring-shell:spring-shell-management,T,8.4,no test,,,,,33
+spring-projects/spring-shell:spring-shell-samples,T,8.4,no test,,,,,33
+spring-projects/spring-shell:spring-shell-standard,T,8.4,0,26,26,0,0,35
+spring-projects/spring-shell:spring-shell-standard-commands,T,8.4,0,16,16,0,0,37
+spring-projects/spring-shell:spring-shell-starters,T,8.4,no test,,,,,38
+spring-projects/spring-shell:spring-shell-table,T,8.4,0,41,41,0,0,39
+spring-projects/spring-shell:spring-shell-test,T,8.4,0,2,2,0,0,40
+spring-projects/spring-shell:spring-shell-test-autoconfigure,T,8.4,0,9,9,0,0,44
+linkedin/coral,F,6.7.1,N/A,,,,,0
+royclarkson/spring-rest-service-oauth,F,2.7,N/A,,,,,0
+bitwig/dawproject,T,7.4,4,13,12,0,1,5
+hierynomus/smbj,T,8.2,0,270,270,0,0,8
+benwilcock/cqrs-microservice-sampler,F,2.3,N/A,,,,,0
+apache/ofbiz-framework:applications,T,7.6,error,,,,,30
+apache/ofbiz-framework:framework,T,7.6,error,,,,,30
+apache/ofbiz-framework:themes,T,7.6,error,,,,,30
+kaklakariada/portmapper,T,8.4,error,5,5,0,0,3
+atarw/material-ui-swing,F,6.4.1,N/A,,,,,0
+spring-attic/spring-hadoop,F,2.9,N/A,,,,,0
+spring-attic/spring-social,F,3.0,N/A,,,,,0
+yanagishima/yanagishima,F,5.2,N/A,,,,,0
+pledbrook/lazybones,F,2.9,N/A,,,,,0
+brmson/yodaqa,F,2.1,N/A,,,,,0
+danielliao11/spring-microservice-boilerplate,F,4.3,N/A,,,,,0
+opendistro-for-elasticsearch/sql,F,6.6.1,N/A,,,,,0
+chunky-dev/chunky:=>,T,8.0.2,error,,,,,7
+chunky-dev/chunky:=>,T,8.0.2,error,,,,,7
+chunky-dev/chunky:=>,T,8.0.2,error,,,,,7
+chunky-dev/chunky:=>,T,8.0.2,error,,,,,7
+chunky-dev/chunky:chunky,T,8.0.2,error,,,,,7
+chunky-dev/chunky:launcher,T,8.0.2,error,,,,,7
+chunky-dev/chunky:lib,T,8.0.2,error,,,,,8
+chunky-dev/chunky:releasetools,T,8.0.2,error,,,,,8
+Consensys/teku:acceptance-tests,T,8.4,no test,,,,,211
+Consensys/teku:beacon,T,8.4,no test,,,,,212
+Consensys/teku:data,T,8.4,no test,,,,,212
+Consensys/teku:eth-benchmark-tests,T,8.4,no test,,,,,216
+Consensys/teku:eth-reference-tests,T,8.4,no test,,,,,217
+Consensys/teku:eth-tests,T,8.4,no test,,,,,219
+Consensys/teku:ethereum,T,8.4,no test,,,,,219
+Consensys/teku:fork-choice-tests,T,8.4,no test,,,,,219
+Consensys/teku:fuzz,T,8.4,0,21,21,0,0,235
+Consensys/teku:infrastructure,T,8.4,no test,,,,,236
+Consensys/teku:networking,T,8.4,no test,,,,,236
+Consensys/teku:services,T,8.4,no test,,,,,237
+Consensys/teku:storage,T,8.4,0,680,680,0,0,368
+Consensys/teku:teku,T,8.4,19,369,369,0,0,605
+Consensys/teku:validator,T,8.4,no test,,,,,606
+maruohon/litematica,F,2.14.1,N/A,,,,,0
+tom-mohr/particle-life-app,error with test,7.6,no test,,,,,2
+onyxbits/raccoon4,F,6.8.2,N/A,,,,,0
+nccgroup/LoggerPlusPlus,T,7.5.1,0,0,0,0,0,2
+asciidoctor/asciidoctorj:asciidoctorj,T,8.5,error,463,456,0,7,114
+asciidoctor/asciidoctorj:asciidoctorj-api,T,8.5,no test,,,,,114
+asciidoctor/asciidoctorj:asciidoctorj-arquillian-extension,T,8.5,no test,,,,,114
+asciidoctor/asciidoctorj:asciidoctorj-cli,T,8.5,error,22,22,0,0,117
+asciidoctor/asciidoctorj:asciidoctorj-distribution,T,8.5,0,8,8,0,0,143
+asciidoctor/asciidoctorj:asciidoctorj-documentation,T,8.5,0,34,34,0,0,176
+asciidoctor/asciidoctorj:asciidoctorj-springboot-integration-test,T,8.5,error,1,1,0,0,179
+asciidoctor/asciidoctorj:asciidoctorj-test-support,T,8.5,error,14,14,0,0,182
+asciidoctor/asciidoctorj:asciidoctorj-wildfly-integration-test,T,8.5,error,1,1,0,0,186
+BashSupport/BashSupport,F,4.6,N/A,,,,,0
+schibsted/jslt:core,T,7.4.1,1,723,720,0,3,4
+schibsted/jslt:playground,T,7.4.1,no test,,,,,4
+igvteam/igv,T,8.0.2,2,536,442,0,94,56
+reactor/reactor-kafka:reactor-kafka-samples,T,7.4,0,11,11,0,0,34
+reactor/reactor-kafka:reactor-kafka-tools,T,7.4,0,3,0,0,3,35
+spotify/JniHelpers,F,1.9,N/A,,,,,0
+BishopFox/GadgetProbe,F,4.10.3,N/A,,,,,0
+Kotlin/kotlin-frontend-plugin,F,4.10.3,N/A,,,,,0
+line/centraldogma:benchmarks,T,8.4,no test,,,,,26
+line/centraldogma:bom,T,8.4,no test,,,,,26
+line/centraldogma:client,T,8.4,no test,,,,,27
+line/centraldogma:common,T,8.4,0,264,264,0,0,31
+line/centraldogma:common-legacy,T,8.4,0,1,1,0,0,34
+line/centraldogma:dependencyManagement,T,8.4,no test,,,,,34
+line/centraldogma:dist,T,8.4,no test,,,,,37
+line/centraldogma:it,T,8.4,no test,,,,,37
+line/centraldogma:server,T,8.4,0,279,278,1,0,51
+line/centraldogma:server-auth,T,8.4,no test,,,,,51
+line/centraldogma:server-mirror-git,T,8.4,0,13,13,0,0,55
+line/centraldogma:site,T,8.4,no test,,,,,59
+line/centraldogma:testing,T,8.4,no test,,,,,59
+line/centraldogma:testing-internal,T,8.4,0,3,3,0,0,62
+holgerbrandl/krangl:benchmarks,error with test,7.4,no test,,,,,9
+Netflix/blitz4j,T,7.6,error,7,7,0,0,5
+bladecoder/bladecoder-adventure-engine:adventure-editor,error with test,8.4,no test,,,,,4
+bladecoder/bladecoder-adventure-engine:blade-engine,error with test,8.4,no test,,,,,4
+bladecoder/bladecoder-adventure-engine:blade-engine-spine-plugin,error with test,8.4,no test,,,,,5
+ATLauncher/ATLauncher:app,T,8.2,no test,,,,,8
+ATLauncher/ATLauncher:legacy-launch,T,8.2,no test,,,,,8
+biokys/cropimage,F,,N/A,,,,,0
+neo4j/graph-data-science:algo,error with test,8.5,error,,,,,20
+neo4j/graph-data-science:algo-common,error with test,8.5,error,,,,,21
+neo4j/graph-data-science:algo-test,error with test,8.5,error,,,,,21
+neo4j/graph-data-science:alpha-proc,error with test,8.5,error,,,,,21
+neo4j/graph-data-science:annotations,error with test,8.5,error,,,,,21
+neo4j/graph-data-science:collections,error with test,8.5,error,,,,,21
+neo4j/graph-data-science:collections-generator,error with test,8.5,error,,,,,22
+neo4j/graph-data-science:collections-memory-estimation,error with test,8.5,error,,,,,22
+neo4j/graph-data-science:concurrency-validation-api,error with test,8.5,error,,,,,22
+neo4j/graph-data-science:config-api,error with test,8.5,error,,,,,22
+neo4j/graph-data-science:config-generator,error with test,8.5,error,,,,,22
+neo4j/graph-data-science:core,error with test,8.5,error,,,,,23
+neo4j/graph-data-science:core-test-utils,error with test,8.5,error,,,,,23
+neo4j/graph-data-science:core-utils,error with test,8.5,error,,,,,23
+neo4j/graph-data-science:core-write,error with test,8.5,error,,,,,23
+neo4j/graph-data-science:csv,error with test,8.5,error,,,,,23
+neo4j/graph-data-science:cypher-aggregation,error with test,8.5,error,,,,,24
+neo4j/graph-data-science:cypher-core,error with test,8.5,error,,,,,24
+neo4j/graph-data-science:cypher-test,error with test,8.5,error,,,,,24
+neo4j/graph-data-science:defaults-and-limits-configuration,error with test,8.5,error,,,,,24
+neo4j/graph-data-science:doc,error with test,8.5,error,,,,,25
+neo4j/graph-data-science:doc-test,error with test,8.5,error,,,,,25
+neo4j/graph-data-science:doc-test-tools,error with test,8.5,error,,,,,25
+neo4j/graph-data-science:edition-api,error with test,8.5,error,,,,,25
+neo4j/graph-data-science:executor,error with test,8.5,error,,,,,25
+neo4j/graph-data-science:graph-dimensions,error with test,8.5,error,,,,,26
+neo4j/graph-data-science:graph-projection-api,error with test,8.5,error,,,,,26
+neo4j/graph-data-science:graph-sampling,error with test,8.5,error,,,,,26
+neo4j/graph-data-science:graph-schema-api,error with test,8.5,error,,,,,26
+neo4j/graph-data-science:graph-store-catalog-applications,error with test,8.5,error,,,,,26
+neo4j/graph-data-science:io-core,error with test,8.5,error,,,,,27
+neo4j/graph-data-science:legacy-cypher-projection,error with test,8.5,error,,,,,27
+neo4j/graph-data-science:licensing,error with test,8.5,error,,,,,27
+neo4j/graph-data-science:logging,error with test,8.5,error,,,,,27
+neo4j/graph-data-science:memory-estimation,error with test,8.5,error,,,,,28
+neo4j/graph-data-science:memory-usage,error with test,8.5,error,,,,,28
+neo4j/graph-data-science:metrics-api,error with test,8.5,error,,,,,28
+neo4j/graph-data-science:ml-algo,error with test,8.5,error,,,,,28
+neo4j/graph-data-science:ml-api,error with test,8.5,error,,,,,28
+neo4j/graph-data-science:ml-core,error with test,8.5,error,,,,,29
+neo4j/graph-data-science:ml-test-utils,error with test,8.5,error,,,,,29
+neo4j/graph-data-science:model-catalog-api,error with test,8.5,error,,,,,29
+neo4j/graph-data-science:native-projection,error with test,8.5,error,,,,,29
+neo4j/graph-data-science:neo4j-adapter,error with test,8.5,error,,,,,29
+neo4j/graph-data-science:neo4j-api,error with test,8.5,error,,,,,30
+neo4j/graph-data-science:neo4j-kernel-adapter,error with test,8.5,error,,,,,30
+neo4j/graph-data-science:neo4j-kernel-adapter-4.4,error with test,8.5,error,,,,,30
+neo4j/graph-data-science:neo4j-kernel-adapter-5-common,error with test,8.5,error,,,,,30
+neo4j/graph-data-science:neo4j-kernel-adapter-5.10,error with test,8.5,error,,,,,30
+neo4j/graph-data-science:neo4j-kernel-adapter-5.11,error with test,8.5,error,,,,,31
+neo4j/graph-data-science:neo4j-kernel-adapter-5.12,error with test,8.5,error,,,,,31
+neo4j/graph-data-science:neo4j-kernel-adapter-5.13,error with test,8.5,error,,,,,31
+neo4j/graph-data-science:neo4j-kernel-adapter-5.14,error with test,8.5,error,,,,,31
+neo4j/graph-data-science:neo4j-kernel-adapter-5.15,error with test,8.5,error,,,,,31
+neo4j/graph-data-science:neo4j-kernel-adapter-5.6,error with test,8.5,error,,,,,32
+neo4j/graph-data-science:neo4j-kernel-adapter-5.7,error with test,8.5,error,,,,,32
+neo4j/graph-data-science:neo4j-kernel-adapter-5.8,error with test,8.5,error,,,,,32
+neo4j/graph-data-science:neo4j-kernel-adapter-5.9,error with test,8.5,error,,,,,32
+neo4j/graph-data-science:neo4j-kernel-adapter-api,error with test,8.5,error,,,,,32
+neo4j/graph-data-science:neo4j-settings,error with test,8.5,error,,,,,33
+neo4j/graph-data-science:open-licensing,error with test,8.5,error,,,,,33
+neo4j/graph-data-science:open-model-catalog,error with test,8.5,error,,,,,33
+neo4j/graph-data-science:open-packaging,error with test,8.5,error,,,,,33
+neo4j/graph-data-science:open-write-services,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:opengds-extension,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:opengds-procedure-facade,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:path-finding-algorithms,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:pipeline,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:pregel,error with test,8.5,error,,,,,34
+neo4j/graph-data-science:pregel-example,error with test,8.5,error,,,,,35
+neo4j/graph-data-science:pregel-proc-generator,error with test,8.5,error,,,,,35
+neo4j/graph-data-science:proc,error with test,8.5,error,,,,,35
+neo4j/graph-data-science:proc-catalog,error with test,8.5,error,,,,,35
+neo4j/graph-data-science:proc-centrality,error with test,8.5,error,,,,,35
+neo4j/graph-data-science:proc-common,error with test,8.5,error,,,,,36
+neo4j/graph-data-science:proc-community,error with test,8.5,error,,,,,36
+neo4j/graph-data-science:proc-embeddings,error with test,8.5,error,,,,,36
+neo4j/graph-data-science:proc-machine-learning,error with test,8.5,error,,,,,36
+neo4j/graph-data-science:proc-misc,error with test,8.5,error,,,,,36
+neo4j/graph-data-science:proc-path-finding,error with test,8.5,error,,,,,37
+neo4j/graph-data-science:proc-pipeline-catalog,error with test,8.5,error,,,,,37
+neo4j/graph-data-science:proc-pregel,error with test,8.5,error,,,,,37
+neo4j/graph-data-science:proc-similarity,error with test,8.5,error,,,,,37
+neo4j/graph-data-science:proc-sysinfo,error with test,8.5,error,,,,,37
+neo4j/graph-data-science:proc-test,error with test,8.5,error,,,,,38
+neo4j/graph-data-science:procedure-collector,error with test,8.5,error,,,,,38
+neo4j/graph-data-science:procedure-integration,error with test,8.5,error,,,,,38
+neo4j/graph-data-science:progress-tracking,error with test,8.5,error,,,,,38
+neo4j/graph-data-science:storage-engine-adapter,error with test,8.5,error,,,,,39
+neo4j/graph-data-science:storage-engine-adapter-4.4,error with test,8.5,error,,,,,39
+neo4j/graph-data-science:storage-engine-adapter-5.10,error with test,8.5,error,,,,,39
+neo4j/graph-data-science:storage-engine-adapter-5.11,error with test,8.5,error,,,,,39
+neo4j/graph-data-science:storage-engine-adapter-5.12,error with test,8.5,error,,,,,40
+neo4j/graph-data-science:storage-engine-adapter-5.13,error with test,8.5,error,,,,,40
+neo4j/graph-data-science:storage-engine-adapter-5.14,error with test,8.5,error,,,,,40
+neo4j/graph-data-science:storage-engine-adapter-5.15,error with test,8.5,error,,,,,41
+neo4j/graph-data-science:storage-engine-adapter-5.6,error with test,8.5,error,,,,,41
+neo4j/graph-data-science:storage-engine-adapter-5.7,error with test,8.5,error,,,,,41
+neo4j/graph-data-science:storage-engine-adapter-5.8,error with test,8.5,error,,,,,41
+neo4j/graph-data-science:storage-engine-adapter-5.9,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:storage-engine-adapter-api,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:string-formatting,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:subgraph-filtering,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:termination,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:test-graph-loaders,error with test,8.5,error,,,,,42
+neo4j/graph-data-science:test-utils,error with test,8.5,error,,,,,43
+neo4j/graph-data-science:transaction,error with test,8.5,error,,,,,43
+Netflix/netflix-graph,T,7.5.1,error,48,48,0,0,2
+Netflix/PigPen,F,2.2.1,N/A,,,,,0
+eventuate-tram/eventuate-tram-examples-customers-and-orders,F,6.9.2,N/A,,,,,0
+RikkaW/YASNAC:app,error with test,7.4.2,error,,,,,3
+ldtteam/minecolonies,error with test,8.1.1,error,,,,,24
+apache/bigtop,F,5.6.4,N/A,,,,,0
+vmware/burp-rest-api,F,6.3,N/A,,,,,0
+qiniu/java-sdk,T,7.6.1,2,256,63,170,23,16
+gojuno/composer,F,4.7,N/A,,,,,0
+vvb2060/MagiskDetector,F,7.5,N/A,,,,,2
+microsoft/thrifty:thrifty-compiler,error with test,8.3,error,,,,,8
+microsoft/thrifty:thrifty-compiler-plugins,error with test,8.3,error,,,,,8
+microsoft/thrifty:thrifty-example-postprocessor,error with test,8.3,error,,,,,8
+microsoft/thrifty:thrifty-gradle-plugin,error with test,8.3,error,,,,,9
+microsoft/thrifty:thrifty-integration-tests,error with test,8.3,error,,,,,9
+microsoft/thrifty:thrifty-java-codegen,error with test,8.3,error,,,,,9
+microsoft/thrifty:thrifty-kotlin-codegen,error with test,8.3,error,,,,,9
+microsoft/thrifty:thrifty-runtime,error with test,8.3,error,,,,,9
+microsoft/thrifty:thrifty-schema,error with test,8.3,error,,,,,10
+microsoft/thrifty:thrifty-test-server,error with test,8.3,error,,,,,10
+threedr3am/ZhouYu,F,,N/A,,,,,0
+allegro/axion-release-plugin,error with test,6.9.1,error,,,,,8
+lessthanoptimal/ejml:examples,error with test,7.3.3,error,,,,,6
+lessthanoptimal/ejml:main,error with test,7.3.3,error,,,,,7
+lessthanoptimal/ejml:regression,error with test,7.3.3,error,,,,,7
+bmuschko/gradle-in-action-source,F,1.7,N/A,,,,,0
+Kotlin/dukat,F,6.8.3,N/A,,,,,0
+CaffeineMC/hydrogen-fabric,F,7.1,N/A,,,,,0
+TNG/ArchUnit-Examples:example-junit4,T,7.2,0,108,0,108,0,8
+TNG/ArchUnit-Examples:example-junit5,T,7.2,0,108,0,108,0,11
+TNG/ArchUnit-Examples:example-plain,T,7.2,0,75,0,75,0,42
+brown-uk/dict_uk,T,8.4,0,0,0,0,0,3
+bndtools/bnd,F,,N/A,,,,,0
+nats-io/nats.java,F,6.8.3,N/A,,,,,0
+tronprotocol/wallet-cli,F,4.0,N/A,,,,,0
+carlphilipp/clean-architecture-example,F,4.8,N/A,,,,,0
+ashald/EnvFile:envfile-core,T,7.5.1,0,9,9,0,0,18
+ashald/EnvFile:envfile-platform,T,7.5.1,no test,,,,,19
+ashald/EnvFile:envfile-products-goland,T,7.5.1,no test,,,,,20
+ashald/EnvFile:envfile-products-idea,T,7.5.1,no test,,,,,21
+ashald/EnvFile:envfile-products-pycharm,T,7.5.1,no test,,,,,21
+ashald/EnvFile:envfile-products-rubymine,T,7.5.1,no test,,,,,22
+sing1ee/elasticsearch-jieba-plugin,F,7.6,N/A,,,,,0
+wpcfan/spring-boot-tut,F,4.1,N/A,,,,,0
+system-sekkei/isolating-the-domain,T,7.5.1,0,61,60,0,1,17
+Railcraft/Railcraft,F,4.9,N/A,,,,,0
+apache/pulsar-manager:front-end,T,7.5,no test,,,,,15
+corretto/hotpatch-for-apache-log4j2,F,7.1,N/A,,,,,0
+Netflix/Prana,F,2.2.1,N/A,,,,,0
+etiennestuder/gradle-jooq-plugin,T,8.5,0,38,37,0,1,216
+marcoferrer/kroto-plus,F,5.6.1,N/A,,,,,0
+littlerobots/version-catalog-update-plugin:catalog,error with test,7.4,error,,,,,5
+littlerobots/version-catalog-update-plugin:plugin,error with test,7.4,error,,,,,6
+carymrobbins/intellij-haskforce,F,6.7.1,N/A,,,,,0
+spring-cloud-samples/eureka,T,8.1.1,0,2,2,0,0,7
+ollide/intellij-java2smali,F,6.1.1,N/A,,,,,0
+kotcity/kotcity,F,6.3,N/A,,,,,1
+eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders:api-gateway-service,T,7.5.1,no test,,,,,13
+eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders:customer-service,T,7.5.1,no test,,,,,13
+eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders:end-to-end-tests,T,7.5.1,no test,,,,,14
+eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders:order-service,T,7.5.1,no test,,,,,14
+graphql-java/java-dataloader,F,7.3.2,N/A,,,,,1
+jreznot/electron-java-app,F,6.2.1,N/A,,,,,0
+TheEpicBlock/PolyMc,error with test,8.4,no test,,,,,19
+fr1kin/ForgeHax,F,7.2,N/A,,,,,1
+Earthcomputer/multiconnect,F,7.4.2,N/A,,,,,7
+sitemesh/sitemesh3:sitemesh,T,8.5,0,151,150,0,1,9
+sitemesh/sitemesh3:sitemesh-examples-hellowebapp,T,8.5,no test,,,,,9
+sitemesh/sitemesh3:sitemesh-examples-springboot,T,8.5,no test,,,,,10
+sitemesh/sitemesh3:spring-boot-starter-sitemesh,T,8.5,no test,,,,,10
+SpaiR/imgui-java:example,T,7.4.2,no test,,,,,6
+SpaiR/imgui-java:imgui-app,T,7.4.2,no test,,,,,6
+SpaiR/imgui-java:imgui-binding,T,7.4.2,error,33,33,0,0,7
+SpaiR/imgui-java:imgui-binding-natives,T,7.4.2,no test,,,,,7
+SpaiR/imgui-java:imgui-lwjgl3,T,7.4.2,no test,,,,,7
+java-decompiler/jd-core,F,5.2.1,N/A,,,,,0
+RelativityMC/C2ME-fabric:c2me-base,error with test,8.3,no test,,,,,57
+RelativityMC/C2ME-fabric:c2me-client-uncapvd,error with test,8.3,no test,,,,,61
+RelativityMC/C2ME-fabric:c2me-fixes-chunkio-threading-issues,error with test,8.3,no test,,,,,64
+RelativityMC/C2ME-fabric:c2me-fixes-general-threading-issues,error with test,8.3,no test,,,,,67
+RelativityMC/C2ME-fabric:c2me-fixes-worldgen-threading-issues,error with test,8.3,no test,,,,,70
+RelativityMC/C2ME-fabric:c2me-fixes-worldgen-vanilla-bugs,error with test,8.3,no test,,,,,74
+RelativityMC/C2ME-fabric:c2me-notickvd,error with test,8.3,no test,,,,,77
+RelativityMC/C2ME-fabric:c2me-opts-allocs,error with test,8.3,no test,,,,,80
+RelativityMC/C2ME-fabric:c2me-opts-chunk-access,error with test,8.3,no test,,,,,83
+RelativityMC/C2ME-fabric:c2me-opts-chunkio,error with test,8.3,no test,,,,,87
+RelativityMC/C2ME-fabric:c2me-opts-math,error with test,8.3,no test,,,,,90
+RelativityMC/C2ME-fabric:c2me-opts-scheduling,error with test,8.3,no test,,,,,93
+RelativityMC/C2ME-fabric:c2me-opts-worldgen-general,error with test,8.3,no test,,,,,96
+RelativityMC/C2ME-fabric:c2me-opts-worldgen-vanilla,error with test,8.3,no test,,,,,98
+RelativityMC/C2ME-fabric:c2me-rewrites-chunk-serializer,error with test,8.3,no test,,,,,101
+RelativityMC/C2ME-fabric:c2me-rewrites-chunkio,error with test,8.3,no test,,,,,105
+RelativityMC/C2ME-fabric:c2me-server-utils,error with test,8.3,no test,,,,,108
+RelativityMC/C2ME-fabric:c2me-threading-chunkio,error with test,8.3,no test,,,,,111
+RelativityMC/C2ME-fabric:c2me-threading-lighting,error with test,8.3,no test,,,,,114
+RelativityMC/C2ME-fabric:c2me-threading-worldgen,error with test,8.3,no test,,,,,117
+RelativityMC/C2ME-fabric:tests,error with test,8.3,no test,,,,,120
+silentsignal/burp-log4shell,error with test,7.3.1,no test,,,,,5
+aerogear/keycloak-metrics-spi,T,7.2,0,24,24,0,0,6
+dlew/rxjava-multiple-sources-sample,F,2.4,N/A,,,,,0
+line/line-fido2-server,F,6.8.3,N/A,,,,,0
+mokies/ratelimitj:ratelimitj-aerospike,T,7.4.2,error,5,3,2,0,14
+mokies/ratelimitj:ratelimitj-core,T,7.4.2,error,20,20,0,0,15
+mokies/ratelimitj:ratelimitj-dropwizard,T,7.4.2,error,16,15,1,0,20
+mokies/ratelimitj:ratelimitj-examples,T,7.4.2,no test,,,,,21
+mokies/ratelimitj:ratelimitj-hazelcast,T,7.4.2,error,10,9,0,1,28
+mokies/ratelimitj:ratelimitj-inmemory,T,7.4.2,error,17,15,0,2,29
+mokies/ratelimitj:ratelimitj-redis,T,7.4.2,error,12,5,7,0,32
+mokies/ratelimitj:ratelimitj-test,T,7.4.2,no test,,,,,32
+ForestryMC/ForestryMC,error with test,7.4.2,error,,,,,19
+JonathanGiles/scenic-view,error with test,8.4,no test,,,,,5
+micyo202/lion,F,6.8.3,N/A,,,,,0
+fuhoujun/e,F,2.14.1,N/A,,,,,0
+kordamp/ikonli,F,6.9.2,N/A,,,,,0
+Melledy/LunarCore,error with test,8.5,no test,,,,,11
+indeedeng/proctor:coverage-report,error with test,8.1.1,no test,,,,,16
+indeedeng/proctor:proctor-ant-plugin,error with test,8.1.1,error,,,,,17
+indeedeng/proctor:proctor-builder,error with test,8.1.1,error,,,,,17
+indeedeng/proctor:proctor-codegen,error with test,8.1.1,error,,,,,18
+indeedeng/proctor:proctor-codegen-test,error with test,8.1.1,error,,,,,19
+indeedeng/proctor:proctor-common,error with test,8.1.1,error,,,,,20
+indeedeng/proctor:proctor-consumer,error with test,8.1.1,error,,,,,21
+indeedeng/proctor:proctor-pipet-core,error with test,8.1.1,error,,,,,21
+indeedeng/proctor:proctor-pipet-deploy,error with test,8.1.1,error,,,,,22
+indeedeng/proctor:proctor-pipet-parent,error with test,8.1.1,no test,,,,,23
+indeedeng/proctor:proctor-store,error with test,8.1.1,error,,,,,23
+indeedeng/proctor:proctor-store-git,error with test,8.1.1,error,,,,,24
+indeedeng/proctor:proctor-store-svn,error with test,8.1.1,error,,,,,25
+indeedeng/proctor:proctor-tomcat-deps,error with test,8.1.1,no test,,,,,25
+indeedeng/proctor:proctor-tomcat-deps-provided,error with test,8.1.1,no test,,,,,26
+indeedeng/proctor:proctor-webapp,error with test,8.1.1,error,,,,,26
+indeedeng/proctor:proctor-webapp-library,error with test,8.1.1,error,,,,,27
+ahlashkari/CICFlowMeter,F,4.2,N/A,,,,,0
+MrTJP/ProjectRed:of,T,7.6.1,error,,,,,57
+MrTJP/ProjectRed:ProjectRed,T,7.6.1,error,,,,,59
+MrTJP/ProjectRed:ProjectRed,T,7.6.1,error,,,,,60
+MrTJP/ProjectRed:api,T,7.6.1,no test,,,,,61
+MrTJP/ProjectRed:core,T,7.6.1,0,0,0,0,0,62
+MrTJP/ProjectRed:expansion,T,7.6.1,no test,,,,,66
+MrTJP/ProjectRed:exploration,T,7.6.1,no test,,,,,67
+MrTJP/ProjectRed:fabrication,T,7.6.1,no test,,,,,69
+MrTJP/ProjectRed:illumination,T,7.6.1,no test,,,,,70
+MrTJP/ProjectRed:integration,T,7.6.1,no test,,,,,71
+MrTJP/ProjectRed:runtime,T,7.6.1,no test,,,,,74
+MrTJP/ProjectRed:transmission,T,7.6.1,no test,,,,,76
+avantgardnerio/depends,F,4.8,N/A,,,,,0
+antlr/intellij-plugin-v4,T,7.6,1,54,54,0,0,38
+sheehan/job-dsl-gradle-example,F,4.8.1,N/A,,,,,0
+jmix-framework/jmix:appsettings,T,8.5,0,1,1,0,0,178
+jmix-framework/jmix:appsettings-flowui,T,8.5,no test,,,,,182
+jmix-framework/jmix:appsettings-flowui-starter,T,8.5,no test,,,,,183
+jmix-framework/jmix:appsettings-starter,T,8.5,no test,,,,,185
+jmix-framework/jmix:audit,T,8.5,0,16,16,0,0,192
+jmix-framework/jmix:audit-flowui,T,8.5,no test,,,,,194
+jmix-framework/jmix:audit-flowui-starter,T,8.5,no test,,,,,196
+jmix-framework/jmix:audit-starter,T,8.5,no test,,,,,197
+jmix-framework/jmix:authserver,T,8.5,no test,,,,,198
+jmix-framework/jmix:authserver-starter,T,8.5,no test,,,,,200
+jmix-framework/jmix:awsfs,T,8.5,0,1,1,0,0,205
+jmix-framework/jmix:awsfs-starter,T,8.5,no test,,,,,206
+jmix-framework/jmix:bom,T,8.5,no test,,,,,207
+jmix-framework/jmix:bulkeditor,T,8.5,no test,,,,,209
+jmix-framework/jmix:bulkeditor-starter,T,8.5,no test,,,,,211
+jmix-framework/jmix:core,T,8.5,0,158,156,0,2,218
+jmix-framework/jmix:core-starter,T,8.5,no test,,,,,218
+jmix-framework/jmix:dashboards,T,8.5,no test,,,,,220
+jmix-framework/jmix:dashboards-starter,T,8.5,no test,,,,,221
+jmix-framework/jmix:data,T,8.5,0,22,22,0,0,225
+jmix-framework/jmix:data-autoconfigure,T,8.5,0,0,0,0,0,226
+jmix-framework/jmix:dataimport,T,8.5,0,120,120,0,0,239
+jmix-framework/jmix:dataimport-starter,T,8.5,no test,,,,,241
+jmix-framework/jmix:datatools,T,8.5,no test,,,,,243
+jmix-framework/jmix:datatools-flowui,T,8.5,no test,,,,,246
+jmix-framework/jmix:datatools-flowui-starter,T,8.5,no test,,,,,247
+jmix-framework/jmix:datatools-starter,T,8.5,no test,,,,,249
+jmix-framework/jmix:dynattr,T,8.5,0,11,11,0,0,255
+jmix-framework/jmix:dynattr-flowui,T,8.5,no test,,,,,258
+jmix-framework/jmix:dynattr-flowui-kit,T,8.5,no test,,,,,259
+jmix-framework/jmix:dynattr-flowui-starter,T,8.5,no test,,,,,261
+jmix-framework/jmix:dynattr-starter,T,8.5,no test,,,,,262
+jmix-framework/jmix:eclipselink,T,8.5,0,311,283,1,27,276
+jmix-framework/jmix:eclipselink-starter,T,8.5,0,1,1,0,0,280
+jmix-framework/jmix:email,T,8.5,0,3,3,0,0,287
+jmix-framework/jmix:email-flowui,T,8.5,no test,,,,,289
+jmix-framework/jmix:email-flowui-starter,T,8.5,no test,,,,,290
+jmix-framework/jmix:email-starter,T,8.5,no test,,,,,291
+jmix-framework/jmix:emailtemplates,T,8.5,0,5,5,0,0,302
+jmix-framework/jmix:emailtemplates-starter,T,8.5,no test,,,,,304
+jmix-framework/jmix:flowui,T,8.5,0,462,461,0,1,328
+jmix-framework/jmix:flowui-data,T,8.5,0,22,22,0,0,337
+jmix-framework/jmix:flowui-data-starter,T,8.5,no test,,,,,338
+jmix-framework/jmix:flowui-devserver,T,8.5,no test,,,,,340
+jmix-framework/jmix:flowui-kit,T,8.5,no test,,,,,341
+jmix-framework/jmix:flowui-starter,T,8.5,no test,,,,,343
+jmix-framework/jmix:flowui-test-assist,T,8.5,no test,,,,,344
+jmix-framework/jmix:flowui-themes,T,8.5,no test,,,,,345
+jmix-framework/jmix:gridexport-flowui,T,8.5,no test,,,,,347
+jmix-framework/jmix:gridexport-flowui-starter,T,8.5,no test,,,,,348
+jmix-framework/jmix:imap,T,8.5,0,15,0,0,15,353
+jmix-framework/jmix:imap-starter,T,8.5,no test,,,,,354
+jmix-framework/jmix:jmxconsole,T,8.5,no test,,,,,355
+jmix-framework/jmix:jmxconsole-starter,T,8.5,no test,,,,,356
+jmix-framework/jmix:ldap,T,8.5,no test,,,,,357
+jmix-framework/jmix:ldap-starter,T,8.5,no test,,,,,357
+jmix-framework/jmix:localfs,T,8.5,0,2,2,0,0,359
+jmix-framework/jmix:localfs-starter,T,8.5,no test,,,,,360
+jmix-framework/jmix:multitenancy,T,8.5,no test,,,,,361
+jmix-framework/jmix:multitenancy-flowui,T,8.5,0,5,5,0,0,365
+jmix-framework/jmix:multitenancy-flowui-starter,T,8.5,no test,,,,,366
+jmix-framework/jmix:multitenancy-starter,T,8.5,no test,,,,,367
+jmix-framework/jmix:oidc,T,8.5,0,1,1,0,0,374
+jmix-framework/jmix:oidc-starter,T,8.5,no test,,,,,375
+jmix-framework/jmix:pessimisticlock,T,8.5,0,2,2,0,0,378
+jmix-framework/jmix:pessimisticlock-flowui,T,8.5,no test,,,,,380
+jmix-framework/jmix:pessimisticlock-flowui-starter,T,8.5,no test,,,,,381
+jmix-framework/jmix:pessimisticlock-starter,T,8.5,no test,,,,,383
+jmix-framework/jmix:quartz,T,8.5,0,23,23,0,0,388
+jmix-framework/jmix:quartz-flowui,T,8.5,no test,,,,,390
+jmix-framework/jmix:quartz-flowui-starter,T,8.5,no test,,,,,391
+jmix-framework/jmix:quartz-starter,T,8.5,no test,,,,,392
+jmix-framework/jmix:reports,T,8.5,0,2,2,0,0,395
+jmix-framework/jmix:reports-flowui,T,8.5,no test,,,,,398
+jmix-framework/jmix:reports-flowui-starter,T,8.5,no test,,,,,400
+jmix-framework/jmix:reports-rest,T,8.5,no test,,,,,403
+jmix-framework/jmix:reports-rest-starter,T,8.5,no test,,,,,404
+jmix-framework/jmix:reports-starter,T,8.5,no test,,,,,405
+jmix-framework/jmix:rest,T,8.5,0,0,0,0,0,407
+jmix-framework/jmix:rest-starter,T,8.5,no test,,,,,408
+jmix-framework/jmix:search,T,8.5,0,146,146,0,0,415
+jmix-framework/jmix:search-aws-starter,T,8.5,no test,,,,,416
+jmix-framework/jmix:search-flowui,T,8.5,no test,,,,,417
+jmix-framework/jmix:search-flowui-kit,T,8.5,no test,,,,,418
+jmix-framework/jmix:search-flowui-starter,T,8.5,no test,,,,,419
+jmix-framework/jmix:search-starter,T,8.5,no test,,,,,420
+jmix-framework/jmix:security,T,8.5,0,12,12,0,0,421
+jmix-framework/jmix:security-data,T,8.5,0,42,42,0,0,426
+jmix-framework/jmix:security-data-starter,T,8.5,no test,,,,,427
+jmix-framework/jmix:security-flowui,T,8.5,no test,,,,,429
+jmix-framework/jmix:security-flowui-starter,T,8.5,no test,,,,,430
+jmix-framework/jmix:security-starter,T,8.5,0,0,0,0,0,432
+jraska/modules-graph-assert:plugin,error with test,8.3,error,,,,,12
+airbnb/SpinalTap,F,5.2.1,N/A,,,,,0
+spinnaker/clouddriver:cats,T,7.6.1,no test,,,,,82
+spinnaker/clouddriver:clouddriver-api,T,7.6.1,no test,,,,,83
+spinnaker/clouddriver:clouddriver-api-tck,T,7.6.1,0,1,1,0,0,156
+spinnaker/clouddriver:clouddriver-appengine,T,7.6.1,0,116,116,0,0,169
+spinnaker/clouddriver:clouddriver-artifacts,T,7.6.1,0,48,47,1,0,191
+spinnaker/clouddriver:clouddriver-aws,T,7.6.1,5,1396,1396,0,0,234
+spinnaker/clouddriver:clouddriver-azure,T,7.6.1,35,142,142,0,0,381
+spinnaker/clouddriver:clouddriver-bom,T,7.6.1,no test,,,,,382
+spinnaker/clouddriver:clouddriver-cloudfoundry,T,7.6.1,1,964,928,36,0,397
+spinnaker/clouddriver:clouddriver-cloudrun,T,7.6.1,0,18,18,0,0,400
+spinnaker/clouddriver:clouddriver-configserver,T,7.6.1,no test,,,,,401
+spinnaker/clouddriver:clouddriver-consul,T,7.6.1,no test,,,,,401
+spinnaker/clouddriver:clouddriver-core,T,7.6.1,0,200,194,0,6,423
+spinnaker/clouddriver:clouddriver-core-tck,T,7.6.1,no test,,,,,423
+spinnaker/clouddriver:clouddriver-docker,T,7.6.1,0,46,46,0,0,428
+spinnaker/clouddriver:clouddriver-ecs,T,7.6.1,2,368,368,0,0,440
+spinnaker/clouddriver:clouddriver-elasticsearch,T,7.6.1,0,64,64,0,0,457
+spinnaker/clouddriver:clouddriver-eureka,T,7.6.1,0,12,12,0,0,460
+spinnaker/clouddriver:clouddriver-event,T,7.6.1,1,10,10,0,0,465
+spinnaker/clouddriver:clouddriver-google,T,7.6.1,0,645,644,0,1,490
+spinnaker/clouddriver:clouddriver-google-common,T,7.6.1,0,5,5,0,0,494
+spinnaker/clouddriver:clouddriver-huaweicloud,T,7.6.1,0,17,17,0,0,497
+spinnaker/clouddriver:clouddriver-kubernetes,T,7.6.1,1,733,733,0,0,512
+spinnaker/clouddriver:clouddriver-lambda,T,7.6.1,0,24,24,0,0,517
+spinnaker/clouddriver:clouddriver-oracle,T,7.6.1,0,95,95,0,0,524
+spinnaker/clouddriver:clouddriver-saga,T,7.6.1,0,18,18,0,0,530
+spinnaker/clouddriver:clouddriver-saga-test,T,7.6.1,no test,,,,,530
+spinnaker/clouddriver:clouddriver-security,T,7.6.1,0,30,30,0,0,533
+spinnaker/clouddriver:clouddriver-sql,T,7.6.1,0,26,26,0,0,579
+spinnaker/clouddriver:clouddriver-sql-mysql,T,7.6.1,no test,,,,,579
+spinnaker/clouddriver:clouddriver-sql-postgres,T,7.6.1,no test,,,,,580
+spinnaker/clouddriver:clouddriver-tencentcloud,T,7.6.1,0,2,2,0,0,581
+spinnaker/clouddriver:clouddriver-titus,T,7.6.1,0,47,46,0,1,587
+spinnaker/clouddriver:clouddriver-web,T,7.6.1,0,61,60,1,0,627
+spinnaker/clouddriver:clouddriver-yandex,T,7.6.1,1,9,9,0,0,647
+stunstunstun/awesome-spring-boot,F,4.2.1,N/A,,,,,0
+VIDA-NYU/ache:ache,T,7.3.3,0,155,153,0,2,40
+VIDA-NYU/ache:ache-dashboard,T,7.3.3,no test,,,,,40
+VIDA-NYU/ache:ache-tools,T,7.3.3,0,5,5,0,0,46
+VIDA-NYU/ache:crawler-commons,T,7.3.3,0,0,0,0,0,47
+pardom-zz/Ollie,F,2.2.1,N/A,,,,,0
+spring-attic/spring-security-saml,F,4.10.3,N/A,,,,,0
+Ecwid/consul-api,F,6.8.3,N/A,,,,,0
+PCGen/pcgen,T,8.3,error,,,,,30
+mesos/kafka,F,4.7,N/A,,,,,0
+mbaeuerle/Briss-2.0,T,7.6,0,3,3,0,0,7
+imperva/automatic-api-attack-tool,F,6.0.1,N/A,,,,,0
+bft-smart/library,F,7.1,N/A,,,,,0
+BishopFox/rmiscout,F,4.10.3,N/A,,,,,0
+hibernate/hibernate-reactive:bytecode-enhancements-it,T,8.3,0,4,0,4,0,22
+hibernate/hibernate-reactive:documentation,T,8.3,no test,,,,,22
+hibernate/hibernate-reactive:hibernate-reactive-core,T,8.3,0,947,58,848,41,41
+hibernate/hibernate-reactive:native-sql-example,T,8.3,no test,,,,,41
+hibernate/hibernate-reactive:release,T,8.3,no test,,,,,42
+hibernate/hibernate-reactive:session-example,T,8.3,no test,,,,,42
+hibernate/hibernate-reactive:techempower-postgres-it,T,8.3,0,1,0,1,0,42
+hibernate/hibernate-reactive:verticle-postgres-it,T,8.3,0,1,0,1,0,43
+maruohon/tweakeroo,F,2.14.1,N/A,,,,,0
+novoda/gradle-static-analysis-plugin,F,5.6.3,N/A,,,,,0
+harbby/sylph:json-reader,T,7.3.3,no test,,,,,2
+harbby/sylph:sylph-api,T,7.3.3,0,1,0,1,0,3
+harbby/sylph:sylph-connectors,T,7.3.3,no test,,,,,3
+harbby/sylph:sylph-dist,T,7.3.3,no test,,,,,5
+harbby/sylph:sylph-main,T,7.3.3,no test,,,,,5
+harbby/sylph:sylph-parser,T,7.3.3,0,4,4,0,0,7
+harbby/sylph:sylph-runners,T,7.3.3,no test,,,,,7
+harbby/sylph:sylph-spi,T,7.3.3,error,,,,,7
+harbby/sylph:sylph-web,T,7.3.3,0,6,6,0,0,9
+harbby/sylph:sylph-yarn,T,7.3.3,no test,,,,,10
+radioegor146/native-obfuscator:annotations,T,8.3,no test,,,,,118
+radioegor146/native-obfuscator:obfuscator,T,8.3,0,887,10,877,0,864
+wepay/waltz,F,5.6.1,N/A,,,,,0
+Swagger2Markup/spring-swagger2markup-demo,F,2.4,N/A,,,,,0
+rapidminer/rapidminer-studio,F,4.10.3,N/A,,,,,0
+Yubico/java-webauthn-server:test-dependent-projects,T,8.1.1,no test,,,,,25
+Yubico/java-webauthn-server:test-platform,T,8.1.1,no test,,,,,26
+Yubico/java-webauthn-server:webauthn-server-attestation,T,8.1.1,0,113,113,0,0,98
+Yubico/java-webauthn-server:webauthn-server-core,T,8.1.1,0,2054,2046,0,8,239
+Yubico/java-webauthn-server:webauthn-server-demo,T,8.1.1,0,8,8,0,0,246
+Yubico/java-webauthn-server:yubico-util,T,8.1.1,0,31,31,0,0,249
+Yubico/java-webauthn-server:yubico-util-scala,T,8.1.1,no test,,,,,250
+jwagenleitner/groovy-wslite,F,2.4,N/A,,,,,0
+purplejs/purplejs,F,2.14.1,N/A,,,,,0
+borysn/spring-boot-angular2,F,3.4,N/A,,,,,0
+jjenkov/javafx-examples,F,6.7,N/A,,,,,0
+lemmingapex/trilateration,F,2.14,N/A,,,,,0
+stephenh/mirror,F,6.6.1,N/A,,,,,0
+FXyz/FXyz:=>,T,8.3,error,,,,,8
+FXyz/FXyz:=>,T,8.3,error,,,,,8
+FXyz/FXyz:=>,T,8.3,error,,,,,8
+FXyz/FXyz:=>,T,8.3,error,,,,,8
+FXyz/FXyz:FXyz-Client,T,8.3,no test,,,,,8
+FXyz/FXyz:FXyz-Core,T,8.3,0,22,22,0,0,9
+FXyz/FXyz:FXyz-Importers,T,8.3,0,15,14,1,0,11
+FXyz/FXyz:FXyz-Samples,T,8.3,no test,,,,,12
+MinicraftPlus/minicraft-plus-revived:client,error with test,7.3,no test,,,,,4
+MinicraftPlus/minicraft-plus-revived:common,error with test,7.3,no test,,,,,4
+MinicraftPlus/minicraft-plus-revived:server,error with test,7.3,no test,,,,,4
+eventuate-examples/eventuate-examples-java-customers-and-orders,F,6.9.1,N/A,,,,,0
+googlearchive/js-store-locator,F,2.1,N/A,,,,,0
+CodelyTV/java-ddd-example:analytics,error with test,8.4,error,,,,,4
+CodelyTV/java-ddd-example:backoffice,error with test,8.4,error,,,,,4
+CodelyTV/java-ddd-example:mooc,error with test,8.4,error,,,,,4
+CodelyTV/java-ddd-example:shared,error with test,8.4,error,,,,,4
+styled-components/webstorm-styled-components,F,5.4.1,N/A,,,,,0
+VolmitSoftware/Iris:core,error with test,7.3.3,no test,,,,,14
+VolmitSoftware/Iris:nms,error with test,7.3.3,no test,,,,,14
+octo-online/reactive-audit,F,3.3,N/A,,,,,0
+dita-ot/dita-ot:axf,T,7.6.1,no test,,,,,12
+dita-ot/dita-ot:fo,T,7.6.1,no test,,,,,13
+dita-ot/dita-ot:fop,T,7.6.1,no test,,,,,14
+dita-ot/dita-ot:html5,T,7.6.1,no test,,,,,14
+dita-ot/dita-ot:htmlhelp,T,7.6.1,0,3,3,0,0,16
+dita-ot/dita-ot:xep,T,7.6.1,no test,,,,,17
+gessnerfl/fake-smtp-server,error with test,8.5,error,,,,,5
+uber-archive/phabricator-jenkins-plugin,F,4.10.3,N/A,,,,,0
+eliostvs/clean-architecture-delivery-example,F,4.5.1,N/A,,,,,0
+cdancy/jenkins-rest,T,7.6.2,0,0,0,0,0,5
+spring-cloud-samples/spring-cloud-contract-samples,error with test,7.4.2,no test,,,,,2
+kousen/java_8_recipes,T,7.5.1,0,162,159,0,3,30
+zonkyio/embedded-database-spring-test:embedded-database-spring-test,T,7.3.3,0,88,85,3,0,60
+zonkyio/embedded-database-spring-test:embedded-database-spring-test-autoconfigure,T,7.3.3,no test,,,,,60
+GlowstoneMC/Glowstone-Legacy,F,1.10,N/A,,,,,0
+Mantaro/MantaroBot,T,8.5,0,0,0,0,0,4
+Netflix/ndbench,F,6.8.3,N/A,,,,,0
+maruohon/minihud,F,2.14.1,N/A,,,,,0
+ItzSomebody/radon:xyz.itzsomebody.codegen,T,7.5.1,0,124,124,0,0,2
+ItzSomebody/radon:xyz.itzsomebody.commons,T,7.5.1,0,16,16,0,0,3
+ItzSomebody/radon:xyz.itzsomebody.radon,T,7.5.1,0,3,3,0,0,3
+ItzSomebody/radon:xyz.itzsomebody.radon.template,T,7.5.1,no test,,,,,3
+novoda/gradle-android-command-plugin,F,4.10.3,N/A,,,,,0
+googlesamples/android-AppUsageStatistics,F,4.4,N/A,,,,,0
+takipi/java-bullshifier,F,4.10.3,N/A,,,,,0
+al3xtjames/ghidra-firmware-utils,F,8.0.1,N/A,,,,,0
+mattbdean/JRAW,F,4.7,N/A,,,,,0
+ichenkaihua/ssm-easy-template,F,2.3,N/A,,,,,0
+sofn/app-engine:common-core,T,7.4,0,7,7,0,0,6
+sofn/app-engine:common-error,T,7.4,0,1,1,0,0,7
+sofn/app-engine:example-deploy,T,7.4,no test,,,,,7
+sofn/app-engine:example-task,T,7.4,no test,,,,,7
+sofn/app-engine:example-user,T,7.4,no test,,,,,8
+sofn/app-engine:frame,T,7.4,0,6,6,0,0,8
+coderplay/perfj,F,2.3,N/A,,,,,0
+wordpress-mobile/PasscodeLock-Android,F,5.1.1,N/A,,,,,0
+webauthn4j/webauthn4j:webauthn4j-core,T,8.4,1,854,854,0,0,24
+webauthn4j/webauthn4j:webauthn4j-device-check,T,8.4,0,27,27,0,0,28
+webauthn4j/webauthn4j:webauthn4j-metadata,T,8.4,0,64,64,0,0,34
+webauthn4j/webauthn4j:webauthn4j-test,T,8.4,0,4,4,0,0,35
+webauthn4j/webauthn4j:webauthn4j-util,T,8.4,0,53,53,0,0,38
+opencypher/cypher-for-gremlin,F,4.7,N/A,,,,,0
+spinnaker/swabbie,F,6.8.1,N/A,,,,,0
+vividus-framework/vividus,F,,N/A,,,,,0
+dropbox/focus:sample,error with test,7.4.2,no test,,,,,5
+hortonworks/cloudbreak,F,8.5,N/A,,,,,2
+5wimming/gadgetinspector,F,4.9,N/A,,,,,0
+thekrakken/java-grok,F,4.6,N/A,,,,,0
+noxone/regex-generator,error with test,8.5,error,,,,,7
+binkley/modern-java-practices,T,7.6.1,0,6,6,0,0,6
+GuntherRademacher/rr,error with test,8.5,no test,,,,,1
+HMCL-dev/HMCL:HMCL,error with test,8.5,error,,,,,3
+HMCL-dev/HMCL:HMCLCore,error with test,8.5,error,,,,,3
+HMCL-dev/HMCL:HMCLTransformerDiscoveryService,error with test,8.5,error,,,,,3
+0xDexter0us/Scavenger,error with test,7.3,no test,,,,,5
+4finance/micro-infra-spring,F,4.6,N/A,,,,,0
+aadnk/ProtocolLib,T,8.0.2,30,143,141,0,2,23
+acomminos/Plumble,F,2.14.1,N/A,,,,,0
+Adubbz/Ghidra-Switch-Loader,F,7.5.1,N/A,,,,,0
+airbnb/reair,F,2.11,N/A,,,,,0
+allegro/json-avro-converter,F,6.7,N/A,,,,,0
+andrewoma/dexx,F,2.9,N/A,,,,,0
+andrewoma/kwery,F,2.9,N/A,,,,,0
+andrewoma/reakt,F,2.2,N/A,,,,,0
+apache/incubator-retired-wave,F,3.2,N/A,,,,,0
+arawn/kotlin-spring-example,F,3.1,N/A,,,,,0
+asynkron/protoactor-kotlin,F,6.3,N/A,,,,,0
+aws-samples/aws-java-sample,F,2.4,N/A,,,,,0
+aws-samples/eb-java-scorekeep,F,2.7,N/A,,,,,0
+b1412/jfinal-ext,F,2.2.1,N/A,,,,,0
+bbejeck/kafka-streams,F,2.11,N/A,,,,,0
+bbejeck/kafka-streams-in-action,F,2.11,N/A,,,,,0
+binjr/binjr:binjr-adapter-csv,error with test,8.5,error,,,,,4
+binjr/binjr:binjr-adapter-jfr,error with test,8.5,error,,,,,4
+binjr/binjr:binjr-adapter-jrds,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-adapter-logs,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-adapter-netdata,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-adapter-rrd4j,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-adapter-text,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-app,error with test,8.5,error,,,,,5
+binjr/binjr:binjr-core,error with test,8.5,error,,,,,5
+BladeRunnerJS/brjs,F,2.14.1,N/A,,,,,0
+boyuanitsm/pay,F,2.9,N/A,,,,,0
+bozaro/git-lfs-migrate,F,2.11,N/A,,,,,0
+brunoborges/fx2048,error with test,7.3,no test,,,,,1
+bspkrs/MCPMappingViewer,F,7.0,N/A,,,,,0
+bwaldvogel/mongo-java-server:mongo-java-server-core,T,8.1.1,error,,,,,658
+bwaldvogel/mongo-java-server:mongo-java-server-examples,T,8.1.1,error,,,,,658
+bwaldvogel/mongo-java-server:mongo-java-server-h2-backend,T,8.1.1,error,,,,,658
+bwaldvogel/mongo-java-server:mongo-java-server-memory-backend,T,8.1.1,error,,,,,658
+bwaldvogel/mongo-java-server:mongo-java-server-postgresql-backend,T,8.1.1,error,,,,,658
+bwaldvogel/mongo-java-server:mongo-java-server-test-common,T,8.1.1,error,,,,,658
+carrot2/elasticsearch-carrot2,error with test,7.5.1,no test,,,,,2
+CategoricalData/CQL,F,6.3,N/A,,,,,0
+chrishantha/jfr-flame-graph,T,7.4.1,0,5,5,0,0,1
+chrislo27/PolyrhythmMania:core,error with test,8.4,error,,,,,55
+chrislo27/PolyrhythmMania:desktop,error with test,8.4,error,,,,,78
+ChronixDB/chronix.server,F,4.10.3,N/A,,,,,0
+chucknorris-io/chuck-api,error with test,7.6.1,error,,,,,4
+cloudfoundry/credhub:applications,T,8.5,no test,,,,,45
+cloudfoundry/credhub:backends,T,8.5,no test,,,,,45
+cloudfoundry/credhub:components,T,8.5,no test,,,,,46
+CodelyTV/java-ddd-example-deprecated,F,5.1.1,N/A,,,,,0
+CodeNarc/CodeNarc:integration-test,T,7.4.1,0,1,0,0,1,15
+concordion/concordion,T,8.2.1,error,,,,,4
+Concurnas/Concurnas,F,5.6.1,N/A,,,,,0
+ContextMapper/context-mapper-dsl:context-mapper-dsl,T,7.4.2,no test,,,,,922
+ContextMapper/context-mapper-dsl:context-mapper-dsl-tests,T,7.4.2,7,728,714,12,2,1061
+ContextMapper/context-mapper-dsl:context-mapper-lsp,T,7.4.2,no test,,,,,1063
+ContextMapper/context-mapper-dsl:context-mapper-lsp-tests,T,7.4.2,0,76,73,3,0,1141
+copper-engine/copper-engine,F,6.7,N/A,,,,,1
+corretto/amazon-corretto-crypto-provider,error with test,7.2,no test,,,,,4
+craftercms/craftercms,error with test,8.0.2,error,,,,,105
+CraftTweaker/CraftTweaker,F,8.5,N/A,,,,,24
+Creditas/kotlin-ddd-sample,F,4.8.1,N/A,,,,,0
+Cuyler36/Ghidra-GameCube-Loader,F,7.5.1,N/A,,,,,0
+CyberdyneCC/Thermos,F,2.8,N/A,,,,,0
+d10xa/holidays-calendar:data-test,error with test,7.5.1,error,,,,,3
+deephaven/deephaven-core:application-mode,error with test,7.6.3,error,,,,,93
+deephaven/deephaven-core:authentication,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:authorization,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:authorization-codegen,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:Base,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:base-test-utils,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:BenchmarkSupport,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:bom,error with test,7.6.3,error,,,,,94
+deephaven/deephaven-core:ClientSupport,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:clock,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:clock-impl,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:codegen,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:combined-javadoc,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:configs,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:Configuration,error with test,7.6.3,error,,,,,95
+deephaven/deephaven-core:Container,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:cpp-client,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:DataStructures,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:deephaven-jpy-config,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:deephaven-jpy-ext,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:DHProcess,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:docker-cpp-clients-multi-base,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:docker-go,error with test,7.6.3,error,,,,,96
+deephaven/deephaven-core:docker-node,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-protoc-base,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-python,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-runtime-base,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-selenium,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-server,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-server-base,error with test,7.6.3,error,,,,,97
+deephaven/deephaven-core:docker-server-jetty,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:docker-server-slim,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:docker-slim-base,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:docker-web-plugin-packager,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:engine-api,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:engine-base,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:engine-benchmark,error with test,7.6.3,error,,,,,98
+deephaven/deephaven-core:engine-chunk,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-context,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-function,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-primitive,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-processor,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-processor-function,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-query-constants,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-rowset,error with test,7.6.3,error,,,,,99
+deephaven/deephaven-core:engine-rowset-test-utils,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-sql,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-stringset,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-table,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-test-utils,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-time,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-tuple,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-tuplesource,error with test,7.6.3,error,,,,,100
+deephaven/deephaven-core:engine-updategraph,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:engine-vector,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-arrow,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-barrage,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-classgraph,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-csv,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-jdbc,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-kafka,error with test,7.6.3,error,,,,,101
+deephaven/deephaven-core:extensions-parquet-base,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-parquet-benchmark,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-parquet-compression,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-parquet-table,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-performance,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-protobuf,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-source-support,error with test,7.6.3,error,,,,,102
+deephaven/deephaven-core:extensions-suanshu,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:Generators,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:go,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:grpc-java,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:hotspot,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:hotspot-impl,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:Integrations,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:IO,error with test,7.6.3,error,,,,,103
+deephaven/deephaven-core:java-client-barrage,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-barrage-dagger,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-barrage-examples,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-example-utilities,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-flight,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-flight-dagger,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-flight-examples,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-session,error with test,7.6.3,error,,,,,104
+deephaven/deephaven-core:java-client-session-dagger,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:java-client-session-examples,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:jpy-integration,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:log-example-base,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:log-example-file,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:log-example-logback,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:log-example-slf4j,error with test,7.6.3,error,,,,,105
+deephaven/deephaven-core:log-example-stream,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:log-factory,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:log-to-file,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:log-to-logbuffer,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:log-to-slf4j,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:log-to-stream,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:logback-logbuffer,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:logback-print-stream-globals,error with test,7.6.3,error,,,,,106
+deephaven/deephaven-core:ModelFarm,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:Numerics,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:open-api-lang-parser,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:open-api-lang-tools,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:open-api-shared-fu,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:Plot,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:plugin,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:plugin-dagger,error with test,7.6.3,error,,,,,107
+deephaven/deephaven-core:plugin-echo,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:plugin-figure,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:plugin-gc-app,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:plugin-hierarchicaltable,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:plugin-partitionedtable,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:proto,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:py-client,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:py-client-ticking,error with test,7.6.3,error,,,,,108
+deephaven/deephaven-core:py-embedded-server,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:py-embedded-server-java-runtime,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:py-server,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:qst,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:qst-graphviz,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:qst-type,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:R,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:replication-reflective,error with test,7.6.3,error,,,,,109
+deephaven/deephaven-core:replication-static,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:replication-util,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server-jetty,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server-jetty-app,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server-jetty-app-custom,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server-netty,error with test,7.6.3,error,,,,,110
+deephaven/deephaven-core:server-netty-app,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:server-test,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:SevenZip,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:slf4j-to-log,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:sphinx,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:sql,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:ssl-config,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:ssl-kickstart,error with test,7.6.3,error,,,,,111
+deephaven/deephaven-core:Stats,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:table-api,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:TableLogger,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:test-configs,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:uri,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:Util,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:util-function,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:util-immutables,error with test,7.6.3,error,,,,,112
+deephaven/deephaven-core:web,error with test,7.6.3,error,,,,,113
+deephaven/deephaven-core:web-client-api,error with test,7.6.3,error,,,,,113
+deephaven/deephaven-core:web-client-backplane,error with test,7.6.3,error,,,,,113
+deephaven/deephaven-core:web-client-ui,error with test,7.6.3,error,,,,,113
+deephaven/deephaven-core:web-shared-beans,error with test,7.6.3,error,,,,,113
+divolte/divolte-collector,F,5.6.3,N/A,,,,,0
+DSecurity/efiSeek,F,7.4.2,N/A,,,,,0
+DTeam-Top/dgate,F,5.6,N/A,,,,,0
+ether-camp/ethereum-harmony,F,4.6,N/A,,,,,0
+eth-sri/securify,F,4.10.2,N/A,,,,,0
+eventuate-examples/eventuate-examples-restaurant-management,F,2.11,N/A,,,,,0
+FabricMC/fabric-language-kotlin,T,8.4,0,8,8,0,0,8
+finos/plexus-interop,F,4.10,N/A,,,,,0
+firebase/firebase-cpp-sdk,F,6.7.1,N/A,,,,,0
+FlansMods/FlansMod,F,4.9,N/A,,,,,0
+FlashyReese/sodium-extra-fabric,error with test,8.5,no test,,,,,6
+geb/geb-example-gradle,error with test,7.5.1,error,,,,,0
+googleapis/gapic-generator,F,4.10.3,N/A,,,,,0
+GoogleCloudPlatform/gradle-appengine-plugin,F,4.0,N/A,,,,,0
+gpx-animator/gpx-animator,T,8.5,0,107,106,0,1,19
+Grigory-Rylov/android-methods-profiler:app,error with test,7.4,error,,,,,13
+Grigory-Rylov/android-methods-profiler:core,error with test,7.4,no test,,,,,13
+Grigory-Rylov/android-methods-profiler:plugin,error with test,7.4,no test,,,,,13
+groovyfx-project/groovyfx,F,6.8.3,N/A,,,,,0
+happysingh23828/Android-Clean-Architecture,F,5.6.4,N/A,,,,,0
+HaxeFoundation/intellij-haxe:common,error with test,7.6,error,,,,,7
+HaxeFoundation/intellij-haxe:hxcpp-debugger-protocol,error with test,7.6,error,,,,,7
+HaxeFoundation/intellij-haxe:jps-plugin,error with test,7.6,error,,,,,7
+HbmMods/Hbm-s-Nuclear-Tech-GIT,F,4.4.1,N/A,,,,,0
+hyperledger/fabric-chaincode-java:fabric-chaincode-docker,T,7.6.3,error,,,,,9
+hyperledger/fabric-chaincode-java:fabric-chaincode-integration-test,T,7.6.3,error,,,,,9
+hyperledger/fabric-chaincode-java:fabric-chaincode-shim,T,7.6.3,error,,,,,9
+iainporter/oauth2-provider,F,2.1,N/A,,,,,0
+int128/gradle-swagger-generator-plugin:acceptance-test,T,7.6.3,0,64,64,0,0,51
+int128/gradle-swagger-generator-plugin:template-project,T,7.6.3,no test,,,,,51
+jakeouellette/inspector,F,1.12,N/A,,,,,0
+jaredlll08/MultiLoader-Template:common,error with test,8.5,no test,,,,,28
+jaredlll08/MultiLoader-Template:fabric,error with test,8.5,0,0,0,0,0,29
+jaredlll08/MultiLoader-Template:forge,error with test,8.5,error,,,,,30
+jaredlll08/MultiLoader-Template:neoforge,error with test,8.5,0,0,0,0,0,49
+java9-modularity/gradle-modules-plugin,T,7.2,57,217,82,134,1,141
+javaparser/javasymbolsolver,F,2.12,N/A,,,,,0
+jediminer543/JMT-MCMT,F,4.10.3,N/A,,,,,0
+jenkinsci/mesos-plugin,F,5.1.1,N/A,,,,,0
+JetBrains/gradle-idea-ext-plugin,F,6.5,N/A,,,,,0
+jk1/Gradle-License-Report,T,8.1.1,0,139,135,2,2,26
+jkazama/ddd-java,T,8.1.1,0,14,14,0,0,5
+jparkie/PDD,F,2.9,N/A,,,,,0
+jshingler/TOS-and-Thinkscript-Snippet-Collection,F,6.0,N/A,,,,,0
+jvm-bloggers/jvm-bloggers,T,7.6,1,1447,1447,0,0,28
+komputing/FaucETH,T,7.6,error,,,,,2
+Kopamed/Raven-bPLUS,F,4.7,N/A,,,,,0
+kosaka-bun/qqrobot-sdk:qqrobot-framework-api,error with test,7.4,error,,,,,6
+kosaka-bun/qqrobot-sdk:qqrobot-spring-boot-starter,error with test,7.4,error,,,,,6
+ksprojects/protobuf-jetbrains-plugin,F,4.10.2,N/A,,,,,0
+kt3k/coveralls-gradle-plugin,F,6.8.3,N/A,,,,,0
+LambdaInnovation/AcademyCraft,F,4.8.1,N/A,,,,,0
+lawrancej/logisim,F,2.2,N/A,,,,,0
+LinkedInAttic/Cubert,F,2.0,N/A,,,,,0
+linkedin/isolation-forest,F,6.8.3,N/A,,,,,0
+linkedin/transport:transportable-udfs-annotation-processor,T,7.5.1,error,,,,,7
+linkedin/transport:transportable-udfs-api,T,7.5.1,error,,,,,7
+linkedin/transport:transportable-udfs-avro,T,7.5.1,error,,,,,7
+linkedin/transport:transportable-udfs-codegen,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-compile-utils,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-hive,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-plugin,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-spark_2.11,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-spark_2.12,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-test,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-trino,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-trino-plugin,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-type-system,T,7.5.1,error,,,,,8
+linkedin/transport:transportable-udfs-utils,T,7.5.1,error,,,,,9
+Lunatrius/Schematica,F,2.9,N/A,,,,,0
+malikzh/NCANode,error with test,7.2,error,,,,,1
+maruohon/malilib,F,2.14.1,N/A,,,,,0
+mbeddr/mbeddr.core:BigProject,error with test,8.0.2,no test,,,,,8
+mbeddr/mbeddr.core:build,error with test,8.0.2,no test,,,,,8
+mbeddr/mbeddr.core:try,error with test,8.0.2,error,,,,,8
+MCMicS/jenkins-control-plugin,T,8.1.1,error,,,,,9
+meddle0x53/learning-rxjava,F,2.0,N/A,,,,,0
+melix/deck2pdf,F,2.5,N/A,,,,,0
+michalstocki/FlashWavRecorder,F,1.10,N/A,,,,,0
+michel-kraemer/bson4jackson,T,8.0.1,0,128,128,0,0,2
+miho/VWorkflows:vworkflows-core,T,7.4.2,0,21,16,5,0,11
+miho/VWorkflows:vworkflows-demo,T,7.4.2,no test,,,,,11
+miho/VWorkflows:vworkflows-fx,T,7.4.2,0,1,1,0,0,11
+Minecraft-Transit-Railway/Minecraft-Transit-Railway:common,error with test,7.3.3,no test,,,,,21
+Minecraft-Transit-Railway/Minecraft-Transit-Railway:fabric,error with test,7.3.3,no test,,,,,22
+Minecraft-Transit-Railway/Minecraft-Transit-Railway:forge,error with test,7.3.3,no test,,,,,22
+mraible/21-points,T,7.4.2,0,53,53,0,0,30
+MrCrayfish/Controllable,F,8.1.1,N/A,,,,,2
+nadavc/groovykoans,F,2.8,N/A,,,,,0
+Nan1t/NanoLimbo,error with test,7.4.2,no test,,,,,0
+naver/spring-jdbc-plus:guide-projects,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-boot-autoconfigure-data-jdbc-plus,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-boot-starter-data-jdbc-plus-repository,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-boot-starter-data-jdbc-plus-sql,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-data-jdbc-plus-repository,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-data-jdbc-plus-sql,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-data-plus-sql-gen,T,7.6,error,,,,,5
+naver/spring-jdbc-plus:spring-jdbc-plus-support,T,7.6,error,,,,,5
+nebula-plugins/nebula-release-plugin,T,8.6,error,182,182,0,0,4
+Netflix/gradle-template,F,6.4,N/A,,,,,0
+Netflix/inviso,F,1.12,N/A,,,,,0
+Netflix/photon,error with test,7.6,error,,,,,1
+Netflix/ReactiveLab,F,1.11,N/A,,,,,0
+Netflix/s3mper,F,2.2.1,N/A,,,,,0
+Netflix-Skunkworks/hystrix-dashboard,F,4.0,N/A,,,,,0
+Netflix/zeno,F,2.2.1,N/A,,,,,0
+neueda/jetbrains-plugin-graph-database-support,F,6.2,N/A,,,,,0
+neuhalje/bouncy-gpg,F,6.5.1,N/A,,,,,0
+nickrussler/email-to-pdf-converter,F,6.6.1,N/A,,,,,0
+nulab/zxcvbn4j,T,8.3,0,773,773,0,0,37
+nviennot/jd-core-java,F,1.11,N/A,,,,,0
+opendistro-for-elasticsearch/alerting,F,6.6.1,N/A,,,,,0
+opendistro-for-elasticsearch/k-NN,F,6.6.1,N/A,,,,,0
+openjdk/jextract,F,7.3.3,N/A,,,,,0
+P3GLEG/PwnBack,F,,N/A,,,,,0
+palantir/gradle-baseline:baseline-error-prone,T,7.5.1,error,,,,,33
+palantir/gradle-baseline:baseline-null-away,T,7.5.1,error,,,,,33
+palantir/gradle-baseline:gradle-baseline-java,T,7.5.1,error,,,,,33
+palantir/gradle-baseline:gradle-baseline-java-config,T,7.5.1,error,,,,,33
+palantir/gradle-baseline:gradle-junit-reports,T,7.5.1,error,,,,,33
+palantir/gradle-graal,T,7.6.2,error,,,,,4
+paulschwarz/spring-dotenv,F,8.0,N/A,,,,,0
+android/android-studio-poet:aspoet,T,7.2,0,112,108,4,0,10
+android/android-studio-poet:aspoet-input,T,7.2,no test,,,,,10
