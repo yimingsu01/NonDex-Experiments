@@ -32,7 +32,7 @@ This command will generate a `repos.txt` file containing the slugs of candidate 
 Run the `run-nondex-multiple-projects.sh` script to analyze the repositories listed in `repos.txt` and identify ID flaky tests.
 
 ```bash
-./runNonDexMultipleProjects.sh repos.txt
+./run-nondex-multiple-projects.sh repos.txt
 ```
 
 - **`result.csv`**: This file will contain the general results of the experiment.
